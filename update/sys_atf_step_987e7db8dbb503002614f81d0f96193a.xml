@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>Set the values on the form as follows:
+ILAB Application Dependencies = Test 999999000000
+and ILAB Comment = Test 999999000000
+and ILAB Report Date = 10/11/2017
+and ILAB Results = Not Reviewed
+and ILAB USAID Standard Desktop Image Test = Pass
+and ILAB USAID Standard Desktop Sec Test = N/A
+and ILAB Windows 10 Certified = Yes
+and ILAB Windows 7 Certified = Yes
+and ILAB OS, Patch and Component Dependencies = Test 999999000000</description>
+        <display_name>Set Field Values</display_name>
+        <inputs/>
+        <order>32</order>
+        <step_config display_value="Set Field Values">fcae4a935332120028bc29cac2dc340e</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>emalsia@usaid.gov</sys_created_by>
+        <sys_created_on>2017-10-11 19:13:59</sys_created_on>
+        <sys_id>987e7db8dbb503002614f81d0f96193a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Set Field Values</sys_name>
+        <sys_package display_value="SHR" source="x_agfid_shr">03e2363cdbe94700e2c0fd0e0f9619c7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SHR">03e2363cdbe94700e2c0fd0e0f9619c7</sys_scope>
+        <sys_update_name>sys_atf_step_987e7db8dbb503002614f81d0f96193a</sys_update_name>
+        <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
+        <sys_updated_on>2017-10-11 19:13:59</sys_updated_on>
+        <table>x_agfid_shr_shr</table>
+        <test display_value="Approved SHR Automated Test">eddfcdb8db3503002614f81d0f961947</test>
+        <timeout/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=987e7db8dbb503002614f81d0f96193a"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>987e7db8dbb503002614f81d0f96193a</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>emalsia@usaid.gov</sys_created_by>
+        <sys_created_on>2017-10-11 19:13:59</sys_created_on>
+        <sys_id>57febdb8dbb503002614f81d0f96193f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
+        <sys_updated_on>2017-10-11 19:13:59</sys_updated_on>
+        <value>x_agfid_shr_shr</value>
+        <variable display_value="">424ca6465320220002c6435723dc34b5</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>987e7db8dbb503002614f81d0f96193a</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>emalsia@usaid.gov</sys_created_by>
+        <sys_created_on>2017-10-11 19:13:59</sys_created_on>
+        <sys_id>9ffebdb8dbb503002614f81d0f96193f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
+        <sys_updated_on>2017-10-11 19:13:59</sys_updated_on>
+        <value>ilab_application_dependencies=Test 999999000000^ilab_comment=Test 999999000000^ilab_report_date=10/10/2017^ilab_results=Not Reviewed^ilab_usaid_standard_desktop_image_test=Pass^ilab_usaid_standard_desktop_sec_test=N/A^ilab_windows_10_certified=Yes^ilab_windows_7_certified=Yes^ilab_os_patch_and_component_dependencies=Test 999999000000^EQ</value>
+        <variable display_value="">b3dba2465320220002c6435723dc34f0</variable>
+    </sys_variable_value>
+</record_update>

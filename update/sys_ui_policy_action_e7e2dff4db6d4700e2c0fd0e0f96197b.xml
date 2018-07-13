@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <disabled>ignore</disabled>
+        <field>product_category</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>emalsia@usaid.gov</sys_created_by>
+        <sys_created_on>2017-09-29 15:05:17</sys_created_on>
+        <sys_id>e7e2dff4db6d4700e2c0fd0e0f96197b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>product_category</sys_name>
+        <sys_package display_value="SHR" source="x_agfid_shr">03e2363cdbe94700e2c0fd0e0f9619c7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SHR">03e2363cdbe94700e2c0fd0e0f9619c7</sys_scope>
+        <sys_update_name>sys_ui_policy_action_e7e2dff4db6d4700e2c0fd0e0f96197b</sys_update_name>
+        <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
+        <sys_updated_on>2017-09-29 15:05:17</sys_updated_on>
+        <table>x_agfid_shr_shr</table>
+        <ui_policy display_value="Hide Software related fields when Hardware is selected">0c421bf4db6d4700e2c0fd0e0f961985</ui_policy>
+        <visible>false</visible>
+    </sys_ui_policy_action>
+</record_update>

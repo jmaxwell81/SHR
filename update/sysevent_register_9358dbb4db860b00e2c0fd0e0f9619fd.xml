@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sysevent_register">
+    <sysevent_register action="INSERT_OR_UPDATE">
+        <description/>
+        <event_name>x_agfid_shr.shr_tasks.sla.warning</event_name>
+        <fired_by/>
+        <queue/>
+        <suffix>shr_tasks.sla.warning</suffix>
+        <sys_class_name>sysevent_register</sys_class_name>
+        <sys_created_by>emalsia@usaid.gov</sys_created_by>
+        <sys_created_on>2017-10-24 12:00:33</sys_created_on>
+        <sys_id>9358dbb4db860b00e2c0fd0e0f9619fd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_agfid_shr.shr_tasks.sla.warning</sys_name>
+        <sys_package display_value="SHR" source="x_agfid_shr">03e2363cdbe94700e2c0fd0e0f9619c7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SHR">03e2363cdbe94700e2c0fd0e0f9619c7</sys_scope>
+        <sys_update_name>sysevent_register_9358dbb4db860b00e2c0fd0e0f9619fd</sys_update_name>
+        <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
+        <sys_updated_on>2017-10-24 12:00:33</sys_updated_on>
+        <table>x_agfid_shr_shr_tasks</table>
+    </sysevent_register>
+</record_update>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="io_set_item">
+    <io_set_item action="INSERT_OR_UPDATE">
+        <order>120</order>
+        <sc_cat_item display_value="Software and Hardware Approval Request (old)">a5252103dbfd07002614f81d0f9619d5</sc_cat_item>
+        <sys_class_name>io_set_item</sys_class_name>
+        <sys_created_by>emalsia@usaid.gov</sys_created_by>
+        <sys_created_on>2017-10-18 17:22:04</sys_created_on>
+        <sys_id>c8882d43dbfd07002614f81d0f961956</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>SHR Software Hardware.SHR Record Producer</sys_name>
+        <sys_package display_value="SHR" source="x_agfid_shr">03e2363cdbe94700e2c0fd0e0f9619c7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SHR">03e2363cdbe94700e2c0fd0e0f9619c7</sys_scope>
+        <sys_update_name>io_set_item_c8882d43dbfd07002614f81d0f961956</sys_update_name>
+        <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
+        <sys_updated_on>2017-10-18 17:39:57</sys_updated_on>
+        <variable_set display_value="SHR Software Hardware">0468ed03dbfd07002614f81d0f961946</variable_set>
+    </io_set_item>
+</record_update>

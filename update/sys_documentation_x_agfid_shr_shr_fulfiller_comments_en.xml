@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="fulfiller_comments" label="Fulfiller Comments" language="en" table="x_agfid_shr_shr">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>fulfiller_comments</element>
+            <help/>
+            <hint/>
+            <label>Fulfiller Comments</label>
+            <language>en</language>
+            <name>x_agfid_shr_shr</name>
+            <plural>Fulfiller Comments</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>vsheremeti@usaid.gov</sys_created_by>
+            <sys_created_on>2018-04-17 18:35:17</sys_created_on>
+            <sys_id>11018615dba51b00e2c0fd0e0f961929</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Fulfiller Comments</sys_name>
+            <sys_package display_value="SHR" source="x_agfid_shr">03e2363cdbe94700e2c0fd0e0f9619c7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SHR">03e2363cdbe94700e2c0fd0e0f9619c7</sys_scope>
+            <sys_update_name>sys_documentation_x_agfid_shr_shr_fulfiller_comments_en</sys_update_name>
+            <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+            <sys_updated_on>2018-04-17 18:35:17</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="1377eea5db25c700e2c0fd0e0f9619e6" sys_domain="global" table="x_agfid_shr_shr" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>emalsia@usaid.gov</sys_created_by>
+            <sys_created_on>2017-10-01 19:50:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5f77eea5db25c700e2c0fd0e0f9619e8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_agfid_shr_shr" name="x_agfid_shr_shr" sys_domain="global" view="Default view">1377eea5db25c700e2c0fd0e0f9619e6</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_agfid_shr_shr" sys_domain="global" view="Default view">93ba4f70db6d4700e2c0fd0e0f9619dc</sys_ui_section>
+            <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
+            <sys_updated_on>2017-10-01 19:50:41</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-13 23:02:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7d600f954f13130011d733718110c7e6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_agfid_shr_shr" name="x_agfid_shr_shr" sys_domain="global" view="Default view">1377eea5db25c700e2c0fd0e0f9619e6</sys_ui_form>
+            <sys_ui_section caption="CM EA" display_value="CM EA" name="x_agfid_shr_shr" sys_domain="global" view="Default view">085ea27ddb2dc700e2c0fd0e0f961992</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-13 23:02:06</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-13 23:02:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c6604f954f13130011d733718110c703</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_agfid_shr_shr" name="x_agfid_shr_shr" sys_domain="global" view="Default view">1377eea5db25c700e2c0fd0e0f9619e6</sys_ui_form>
+            <sys_ui_section caption="EM" display_value="EM" name="x_agfid_shr_shr" sys_domain="global" view="Default view">501036bddb2dc700e2c0fd0e0f961969</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-13 23:02:06</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-13 23:02:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>86604f954f13130011d733718110c713</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_agfid_shr_shr" name="x_agfid_shr_shr" sys_domain="global" view="Default view">1377eea5db25c700e2c0fd0e0f9619e6</sys_ui_form>
+            <sys_ui_section caption="CISO" display_value="CISO" name="x_agfid_shr_shr" sys_domain="global" view="Default view">545ea27ddb2dc700e2c0fd0e0f961993</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-13 23:02:06</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-13 23:02:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>86604f954f13130011d733718110c75a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_agfid_shr_shr" name="x_agfid_shr_shr" sys_domain="global" view="Default view">1377eea5db25c700e2c0fd0e0f9619e6</sys_ui_form>
+            <sys_ui_section caption="Recommendation" display_value="Recommendation" name="x_agfid_shr_shr" sys_domain="global" view="Default view">80534bc7dbad8b002614f81d0f961950</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-13 23:02:07</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-13 23:02:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9a604f954f13130011d733718110c7c2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_agfid_shr_shr" name="x_agfid_shr_shr" sys_domain="global" view="Default view">1377eea5db25c700e2c0fd0e0f9619e6</sys_ui_form>
+            <sys_ui_section caption="ITO" display_value="ITO" name="x_agfid_shr_shr" sys_domain="global" view="Default view">981036bddb2dc700e2c0fd0e0f961968</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-13 23:02:07</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-13 23:02:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d2604f954f13130011d733718110c7d9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_agfid_shr_shr" name="x_agfid_shr_shr" sys_domain="global" view="Default view">1377eea5db25c700e2c0fd0e0f9619e6</sys_ui_form>
+            <sys_ui_section caption="Privacy" display_value="Privacy" name="x_agfid_shr_shr" sys_domain="global" view="Default view">d01036bddb2dc700e2c0fd0e0f961967</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-13 23:02:07</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-13 23:02:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>12604f954f13130011d733718110c7de</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_agfid_shr_shr" name="x_agfid_shr_shr" sys_domain="global" view="Default view">1377eea5db25c700e2c0fd0e0f9619e6</sys_ui_form>
+            <sys_ui_section caption="ILAB" display_value="ILAB" name="x_agfid_shr_shr" sys_domain="global" view="Default view">d01036bddb2dc700e2c0fd0e0f961968</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-13 23:02:07</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-13 23:02:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1a604f954f13130011d733718110c7e1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_agfid_shr_shr" name="x_agfid_shr_shr" sys_domain="global" view="Default view">1377eea5db25c700e2c0fd0e0f9619e6</sys_ui_form>
+            <sys_ui_section caption="508" display_value="508" name="x_agfid_shr_shr" sys_domain="global" view="Default view">d81036bddb2dc700e2c0fd0e0f961967</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-13 23:02:08</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_agfid_shr_shr</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>emalsia@usaid.gov</sys_created_by>
+            <sys_created_on>2017-10-01 19:50:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1377eea5db25c700e2c0fd0e0f9619e6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_agfid_shr_shr</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="SHR" source="x_agfid_shr">03e2363cdbe94700e2c0fd0e0f9619c7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SHR">03e2363cdbe94700e2c0fd0e0f9619c7</sys_scope>
+            <sys_update_name>sys_ui_form_sections_1377eea5db25c700e2c0fd0e0f9619e6</sys_update_name>
+            <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
+            <sys_updated_on>2017-10-01 19:50:41</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

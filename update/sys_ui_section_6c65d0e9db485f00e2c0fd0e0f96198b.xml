@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="ITO" section_id="6c65d0e9db485f00e2c0fd0e0f96198b" sys_domain="global" table="x_agfid_shr_shr" version="3" view="Fulfill">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ito_conditions</element>
+            <position>0</position>
+            <sys_created_by>vsheremeti@usaid.gov</sys_created_by>
+            <sys_created_on>2018-04-19 15:25:31</sys_created_on>
+            <sys_id>85c86771dbe99b00e2c0fd0e0f961947</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="ITO" display_value="ITO" name="x_agfid_shr_shr" sys_domain="global" view="6c65d0e9db485f00e2c0fd0e0f961985">6c65d0e9db485f00e2c0fd0e0f96198b</sys_ui_section>
+            <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+            <sys_updated_on>2018-04-19 15:25:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>vsheremeti@usaid.gov</sys_created_by>
+            <sys_created_on>2018-04-19 15:25:31</sys_created_on>
+            <sys_id>09c86771dbe99b00e2c0fd0e0f961947</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="ITO" display_value="ITO" name="x_agfid_shr_shr" sys_domain="global" view="6c65d0e9db485f00e2c0fd0e0f961985">6c65d0e9db485f00e2c0fd0e0f96198b</sys_ui_section>
+            <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+            <sys_updated_on>2018-04-19 15:25:31</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ito_recommended_action</element>
+            <position>2</position>
+            <sys_created_by>vsheremeti@usaid.gov</sys_created_by>
+            <sys_created_on>2018-04-19 15:25:31</sys_created_on>
+            <sys_id>89c86771dbe99b00e2c0fd0e0f961947</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="ITO" display_value="ITO" name="x_agfid_shr_shr" sys_domain="global" view="6c65d0e9db485f00e2c0fd0e0f961985">6c65d0e9db485f00e2c0fd0e0f96198b</sys_ui_section>
+            <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+            <sys_updated_on>2018-04-19 15:25:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ito_summary_of_evaluation</element>
+            <position>3</position>
+            <sys_created_by>vsheremeti@usaid.gov</sys_created_by>
+            <sys_created_on>2018-04-19 15:25:31</sys_created_on>
+            <sys_id>0dc86771dbe99b00e2c0fd0e0f961947</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="ITO" display_value="ITO" name="x_agfid_shr_shr" sys_domain="global" view="6c65d0e9db485f00e2c0fd0e0f961985">6c65d0e9db485f00e2c0fd0e0f96198b</sys_ui_section>
+            <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+            <sys_updated_on>2018-04-19 15:25:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>ITO</caption>
+            <header>false</header>
+            <name>x_agfid_shr_shr</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>vsheremeti@usaid.gov</sys_created_by>
+            <sys_created_on>2018-02-02 15:49:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6c65d0e9db485f00e2c0fd0e0f96198b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>ITO</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="SHR" source="x_agfid_shr">03e2363cdbe94700e2c0fd0e0f9619c7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SHR">03e2363cdbe94700e2c0fd0e0f9619c7</sys_scope>
+            <sys_update_name>sys_ui_section_6c65d0e9db485f00e2c0fd0e0f96198b</sys_update_name>
+            <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+            <sys_updated_on>2018-02-02 15:49:19</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Fulfill" name="Fulfill">6c65d0e9db485f00e2c0fd0e0f961985</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

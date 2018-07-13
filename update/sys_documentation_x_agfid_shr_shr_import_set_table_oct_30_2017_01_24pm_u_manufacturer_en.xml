@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="u_manufacturer" label="manufacturer" language="en" table="x_agfid_shr_shr_import_set_table_oct_30_2017_01_24pm">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_manufacturer</element>
+            <help/>
+            <hint/>
+            <label>manufacturer</label>
+            <language>en</language>
+            <name>x_agfid_shr_shr_import_set_table_oct_30_2017_01_24pm</name>
+            <plural>manufacturers</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>vsheremeti@usaid.gov</sys_created_by>
+            <sys_created_on>2017-10-30 17:26:10</sys_created_on>
+            <sys_id>098cdf3edb4e0f00e2c0fd0e0f961950</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>manufacturer</sys_name>
+            <sys_package display_value="SHR" source="x_agfid_shr">03e2363cdbe94700e2c0fd0e0f9619c7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SHR">03e2363cdbe94700e2c0fd0e0f9619c7</sys_scope>
+            <sys_update_name>sys_documentation_x_agfid_shr_shr_import_set_table_oct_30_2017_01_24pm_u_manufacturer_en</sys_update_name>
+            <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+            <sys_updated_on>2017-10-30 17:26:10</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>Set the values on the form as follows:
+Product Name = Automated Testing Framework record
+and Product Version = 1.0
+and Product Type = Software
+and Product Architecture = Cloud Based (Software as a Service)
+and Manufacturer = ServiceNow
+and Manufacturer Webaddress = https://www.servicenow.com/
+and Product Category = Don't know
+and Estimated 5-year cost = $5,000,000.00
+and Is this an upgrade = false
+and Product Description = ServiceNow Automated Testing Framework
+and Minimum System Requirements = i-3, 2GB RAM, Chrome  Version 60
+and Need statement = SAAS Application Development
+and Requested By = Valon1 (no-role) User
+and Number of Licenses = 256</description>
+        <display_name>Set Field Values</display_name>
+        <inputs/>
+        <order>3</order>
+        <step_config display_value="Set Field Values">fcae4a935332120028bc29cac2dc340e</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>emalsia@usaid.gov</sys_created_by>
+        <sys_created_on>2017-10-11 16:05:42</sys_created_on>
+        <sys_id>47d119f8db3503002614f81d0f96198a</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Set Field Values</sys_name>
+        <sys_package display_value="SHR" source="x_agfid_shr">03e2363cdbe94700e2c0fd0e0f9619c7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SHR">03e2363cdbe94700e2c0fd0e0f9619c7</sys_scope>
+        <sys_update_name>sys_atf_step_47d119f8db3503002614f81d0f96198a</sys_update_name>
+        <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
+        <sys_updated_on>2017-10-11 16:27:40</sys_updated_on>
+        <table>x_agfid_shr_shr</table>
+        <test display_value="Approved SHR Automated Test">eddfcdb8db3503002614f81d0f961947</test>
+        <timeout/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=47d119f8db3503002614f81d0f96198a"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>47d119f8db3503002614f81d0f96198a</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>emalsia@usaid.gov</sys_created_by>
+        <sys_created_on>2017-10-11 16:05:42</sys_created_on>
+        <sys_id>95e3993cdb3503002614f81d0f96190c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
+        <sys_updated_on>2017-10-11 16:05:42</sys_updated_on>
+        <value>x_agfid_shr_shr</value>
+        <variable display_value="">424ca6465320220002c6435723dc34b5</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>47d119f8db3503002614f81d0f96198a</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>emalsia@usaid.gov</sys_created_by>
+        <sys_created_on>2017-10-11 16:05:42</sys_created_on>
+        <sys_id>dde3993cdb3503002614f81d0f96190c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
+        <sys_updated_on>2017-10-11 16:05:42</sys_updated_on>
+        <value>product_name=Automated Testing Framework record^product_version=1.0^product_type=Software^product_architecture=Cloud Based (Software as a Service)^manufacturer=ServiceNow^manufacturer_webaddress=https://www.servicenow.com/^product_category=Don't know^estimated_5_year_cost=javascript:global.getCurrencyFilter('x_agfid_shr_shr','estimated_5_year_cost', 'USD;5000000')^is_this_an_upgrade=false^product_description=ServiceNow Automated Testing Framework ^minimum_system_requirements=i-3, 2GB RAM, Chrome  Version 60^need_statement=SAAS Application Development^requested_by=d9be1798dbf54f002614f81d0f9619d8^number_of_licenses=256^EQ</value>
+        <variable display_value="">b3dba2465320220002c6435723dc34f0</variable>
+    </sys_variable_value>
+</record_update>

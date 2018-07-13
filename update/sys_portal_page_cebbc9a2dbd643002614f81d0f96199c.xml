@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update node_type="sys_portal_page" unload_date="2018-07-13 23:05:00">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout/>
+        <order/>
+        <read_roles>snc_internal</read_roles>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>vsheremeti@usaid.gov</sys_created_by>
+        <sys_created_on>2017-11-10 22:30:45</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>cebbc9a2dbd643002614f81d0f96199c</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>PA SHR</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="SHR" source="x_agfid_shr">03e2363cdbe94700e2c0fd0e0f9619c7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SHR">03e2363cdbe94700e2c0fd0e0f9619c7</sys_scope>
+        <sys_update_name>sys_portal_page_cebbc9a2dbd643002614f81d0f96199c</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-06-05 15:50:49</sys_updated_on>
+        <title>PA SHR</title>
+        <user/>
+        <view>pa_shr</view>
+    </sys_portal_page>
+</record_update>

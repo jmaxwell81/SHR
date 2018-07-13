@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="SHR Infrastructure Lib Ref table Import set table OCT-30-2017" max_length="40" name="x_agfid_shr_shr_infrastructure_lib_ref_table_import_set_table_oct_30_2017" type="collection">
+        <element attributes="import_attribute_name=desc_app_infr_lib,edge_encryption_enabled=true" label="desc_app_infr_lib" max_length="74" name="u_desc_app_infr_lib" type="string"/>
+    </element>
+</database>

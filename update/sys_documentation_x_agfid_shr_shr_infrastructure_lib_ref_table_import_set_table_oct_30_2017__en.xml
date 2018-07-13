@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="SHR Infrastructure Lib Ref table Import set table OCT-30-2017" language="en" table="x_agfid_shr_shr_infrastructure_lib_ref_table_import_set_table_oct_30_2017">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>SHR Infrastructure Lib Ref table Import set table OCT-30-2017</label>
+            <language>en</language>
+            <name>x_agfid_shr_shr_infrastructure_lib_ref_table_import_set_table_oct_30_2017</name>
+            <plural>SHR Infrastructure Lib Ref table Import set table OCT-30-2017s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>vsheremeti@usaid.gov</sys_created_by>
+            <sys_created_on>2017-10-30 15:50:47</sys_created_on>
+            <sys_id>b3a6c3f6db0e0f00e2c0fd0e0f96192c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>SHR Infrastructure Lib Ref table Import set table OCT-30-2017</sys_name>
+            <sys_package display_value="SHR" source="x_agfid_shr">03e2363cdbe94700e2c0fd0e0f9619c7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SHR">03e2363cdbe94700e2c0fd0e0f9619c7</sys_scope>
+            <sys_update_name>sys_documentation_x_agfid_shr_shr_infrastructure_lib_ref_table_import_set_table_oct_30_2017__en</sys_update_name>
+            <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+            <sys_updated_on>2017-10-30 15:50:47</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

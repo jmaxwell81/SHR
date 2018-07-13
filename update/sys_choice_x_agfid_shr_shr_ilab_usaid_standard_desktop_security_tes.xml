@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="ilab_usaid_standard_desktop_security_tes" table="x_agfid_shr_shr" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>ilab_usaid_standard_desktop_security_tes</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>1</label>
+            <language>en</language>
+            <name>x_agfid_shr_shr</name>
+            <sequence/>
+            <sys_created_by>emalsia@usaid.gov</sys_created_by>
+            <sys_created_on>2017-10-05 13:54:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>566cf536dbe18b002614f81d0f961922</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
+            <sys_updated_on>2017-10-05 13:54:58</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>ilab_usaid_standard_desktop_security_tes</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>1</label>
+            <language>en</language>
+            <name>x_agfid_shr_shr</name>
+            <sequence/>
+            <sys_created_by>emalsia@usaid.gov</sys_created_by>
+            <sys_created_on>2017-10-05 13:44:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b1f975b2dbe18b002614f81d0f961971</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
+            <sys_updated_on>2017-10-05 13:44:15</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>ilab_usaid_standard_desktop_security_tes</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Conditional</label>
+            <language>en</language>
+            <name>x_agfid_shr_shr</name>
+            <sequence/>
+            <sys_created_by>emalsia@usaid.gov</sys_created_by>
+            <sys_created_on>2017-10-05 13:43:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>53c9b1b2dbe18b002614f81d0f9619e6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
+            <sys_updated_on>2017-10-05 13:43:43</sys_updated_on>
+            <value>Conditional</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>ilab_usaid_standard_desktop_security_tes</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Conditional</label>
+            <language>en</language>
+            <name>x_agfid_shr_shr</name>
+            <sequence>0</sequence>
+            <sys_created_by>emalsia@usaid.gov</sys_created_by>
+            <sys_created_on>2017-10-05 13:18:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>041435bedba18b002614f81d0f961969</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
+            <sys_updated_on>2017-10-05 13:18:24</sys_updated_on>
+            <value>Conditional</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>ilab_usaid_standard_desktop_security_tes</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Conditional</label>
+            <language>en</language>
+            <name>x_agfid_shr_shr</name>
+            <sequence>0</sequence>
+            <sys_created_by>emalsia@usaid.gov</sys_created_by>
+            <sys_created_on>2017-10-05 13:12:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>50d2397edba18b002614f81d0f961951</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
+            <sys_updated_on>2017-10-05 13:12:57</sys_updated_on>
+            <value>Conditional</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>ilab_usaid_standard_desktop_security_tes</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Conditional</label>
+            <language>en</language>
+            <name>x_agfid_shr_shr</name>
+            <sequence>0</sequence>
+            <sys_created_by>emalsia@usaid.gov</sys_created_by>
+            <sys_created_on>2017-10-05 13:49:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bb2b35f2dbe18b002614f81d0f961974</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
+            <sys_updated_on>2017-10-05 13:49:31</sys_updated_on>
+            <value>Conditional</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>ilab_usaid_standard_desktop_security_tes</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Conditional</label>
+            <language>en</language>
+            <name>x_agfid_shr_shr</name>
+            <sequence>0</sequence>
+            <sys_created_by>emalsia@usaid.gov</sys_created_by>
+            <sys_created_on>2017-10-05 13:32:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c5373132dbe18b002614f81d0f9619bb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
+            <sys_updated_on>2017-10-05 13:32:07</sys_updated_on>
+            <value>Conditional</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>ilab_usaid_standard_desktop_security_tes</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Fail</label>
+            <language>en</language>
+            <name>x_agfid_shr_shr</name>
+            <sequence>1</sequence>
+            <sys_created_by>emalsia@usaid.gov</sys_created_by>
+            <sys_created_on>2017-10-05 13:49:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7f2b35f2dbe18b002614f81d0f961976</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
+            <sys_updated_on>2017-10-05 13:49:31</sys_updated_on>
+            <value>Fail</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>ilab_usaid_standard_desktop_security_tes</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Fail</label>
+            <language>en</language>
+            <name>x_agfid_shr_shr</name>
+            <sequence>1</sequence>
+            <sys_created_by>emalsia@usaid.gov</sys_created_by>
+            <sys_created_on>2017-10-05 13:32:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>89373132dbe18b002614f81d0f9619bd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
+            <sys_updated_on>2017-10-05 13:32:07</sys_updated_on>
+            <value>Fail</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>ilab_usaid_standard_desktop_security_tes</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Fail</label>
+            <language>en</language>
+            <name>x_agfid_shr_shr</name>
+            <sequence>1</sequence>
+            <sys_created_by>emalsia@usaid.gov</sys_created_by>
+            <sys_created_on>2017-10-05 13:18:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c41435bedba18b002614f81d0f96196b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
+            <sys_updated_on>2017-10-05 13:18:24</sys_updated_on>
+            <value>Fail</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>ilab_usaid_standard_desktop_security_tes</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Fail</label>
+            <language>en</language>
+            <name>x_agfid_shr_shr</name>
+            <sequence>1</sequence>
+            <sys_created_by>emalsia@usaid.gov</sys_created_by>
+            <sys_created_on>2017-10-05 13:12:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d4d2397edba18b002614f81d0f961953</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
+            <sys_updated_on>2017-10-05 13:12:57</sys_updated_on>
+            <value>Fail</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>ilab_usaid_standard_desktop_security_tes</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>N/A</label>
+            <language>en</language>
+            <name>x_agfid_shr_shr</name>
+            <sequence>2</sequence>
+            <sys_created_by>emalsia@usaid.gov</sys_created_by>
+            <sys_created_on>2017-10-05 13:49:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>332b35f2dbe18b002614f81d0f961979</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
+            <sys_updated_on>2017-10-05 13:49:31</sys_updated_on>
+            <value>N/A</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>ilab_usaid_standard_desktop_security_tes</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>N/A</label>
+            <language>en</language>
+            <name>x_agfid_shr_shr</name>
+            <sequence>2</sequence>
+            <sys_created_by>emalsia@usaid.gov</sys_created_by>
+            <sys_created_on>2017-10-05 13:32:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4d373132dbe18b002614f81d0f9619bf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
+            <sys_updated_on>2017-10-05 13:32:07</sys_updated_on>
+            <value>N/A</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>ilab_usaid_standard_desktop_security_tes</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>N/A</label>
+            <language>en</language>
+            <name>x_agfid_shr_shr</name>
+            <sequence>2</sequence>
+            <sys_created_by>emalsia@usaid.gov</sys_created_by>
+            <sys_created_on>2017-10-05 13:18:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>881435bedba18b002614f81d0f96196d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
+            <sys_updated_on>2017-10-05 13:18:24</sys_updated_on>
+            <value>N/A</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>ilab_usaid_standard_desktop_security_tes</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>N/A</label>
+            <language>en</language>
+            <name>x_agfid_shr_shr</name>
+            <sequence>2</sequence>
+            <sys_created_by>emalsia@usaid.gov</sys_created_by>
+            <sys_created_on>2017-10-05 13:12:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>98d2397edba18b002614f81d0f961955</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
+            <sys_updated_on>2017-10-05 13:12:57</sys_updated_on>
+            <value>N/A</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>ilab_usaid_standard_desktop_security_tes</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>None</label>
+            <language>en</language>
+            <name>x_agfid_shr_shr</name>
+            <sequence>3</sequence>
+            <sys_created_by>emalsia@usaid.gov</sys_created_by>
+            <sys_created_on>2017-10-05 13:32:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>01373132dbe18b002614f81d0f9619c2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
+            <sys_updated_on>2017-10-05 13:32:07</sys_updated_on>
+            <value>None</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>ilab_usaid_standard_desktop_security_tes</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>None</label>
+            <language>en</language>
+            <name>x_agfid_shr_shr</name>
+            <sequence>3</sequence>
+            <sys_created_by>emalsia@usaid.gov</sys_created_by>
+            <sys_created_on>2017-10-05 13:18:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4c1435bedba18b002614f81d0f96196f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
+            <sys_updated_on>2017-10-05 13:18:24</sys_updated_on>
+            <value>None</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>ilab_usaid_standard_desktop_security_tes</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>None</label>
+            <language>en</language>
+            <name>x_agfid_shr_shr</name>
+            <sequence>3</sequence>
+            <sys_created_by>emalsia@usaid.gov</sys_created_by>
+            <sys_created_on>2017-10-05 13:12:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5cd2397edba18b002614f81d0f961957</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
+            <sys_updated_on>2017-10-05 13:12:57</sys_updated_on>
+            <value>None</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>ilab_usaid_standard_desktop_security_tes</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>None</label>
+            <language>en</language>
+            <name>x_agfid_shr_shr</name>
+            <sequence>3</sequence>
+            <sys_created_by>emalsia@usaid.gov</sys_created_by>
+            <sys_created_on>2017-10-05 13:49:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f32b35f2dbe18b002614f81d0f96197b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
+            <sys_updated_on>2017-10-05 13:49:31</sys_updated_on>
+            <value>None</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>ilab_usaid_standard_desktop_security_tes</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pass</label>
+            <language>en</language>
+            <name>x_agfid_shr_shr</name>
+            <sequence>4</sequence>
+            <sys_created_by>emalsia@usaid.gov</sys_created_by>
+            <sys_created_on>2017-10-05 13:18:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>001435bedba18b002614f81d0f961972</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
+            <sys_updated_on>2017-10-05 13:18:24</sys_updated_on>
+            <value>Pass</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>ilab_usaid_standard_desktop_security_tes</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pass</label>
+            <language>en</language>
+            <name>x_agfid_shr_shr</name>
+            <sequence>4</sequence>
+            <sys_created_by>emalsia@usaid.gov</sys_created_by>
+            <sys_created_on>2017-10-05 13:12:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>10d2397edba18b002614f81d0f96195a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
+            <sys_updated_on>2017-10-05 13:12:57</sys_updated_on>
+            <value>Pass</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>ilab_usaid_standard_desktop_security_tes</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pass</label>
+            <language>en</language>
+            <name>x_agfid_shr_shr</name>
+            <sequence>4</sequence>
+            <sys_created_by>emalsia@usaid.gov</sys_created_by>
+            <sys_created_on>2017-10-05 13:49:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>843b35f2dbe18b002614f81d0f96197d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
+            <sys_updated_on>2017-10-05 13:49:31</sys_updated_on>
+            <value>Pass</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>ilab_usaid_standard_desktop_security_tes</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pass</label>
+            <language>en</language>
+            <name>x_agfid_shr_shr</name>
+            <sequence>4</sequence>
+            <sys_created_by>emalsia@usaid.gov</sys_created_by>
+            <sys_created_on>2017-10-05 13:32:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c1373132dbe18b002614f81d0f9619c4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
+            <sys_updated_on>2017-10-05 13:32:07</sys_updated_on>
+            <value>Pass</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>ilab_usaid_standard_desktop_security_tes</element>
+            <name>x_agfid_shr_shr</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>emalsia@usaid.gov</sys_created_by>
+            <sys_created_on>2017-10-05 13:12:57</sys_created_on>
+            <sys_id>155047954f13130011d733718110c77c</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_name>ilab_usaid_standard_desktop_security_tes</sys_name>
+            <sys_package display_value="SHR" source="x_agfid_shr">03e2363cdbe94700e2c0fd0e0f9619c7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SHR">03e2363cdbe94700e2c0fd0e0f9619c7</sys_scope>
+            <sys_update_name>sys_choice_x_agfid_shr_shr_ilab_usaid_standard_desktop_security_tes</sys_update_name>
+            <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
+            <sys_updated_on>2017-10-13 13:16:34</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

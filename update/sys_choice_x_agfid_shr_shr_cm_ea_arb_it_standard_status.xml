@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="cm_ea_arb_it_standard_status" table="x_agfid_shr_shr" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>cm_ea_arb_it_standard_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Actively Retiring</label>
+            <language>en</language>
+            <name>x_agfid_shr_shr</name>
+            <sequence>0</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-10-31 18:47:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>eda8385fdbcacb8033e176721f96191b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-10-31 18:47:10</sys_updated_on>
+            <value>Actively Retiring</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>cm_ea_arb_it_standard_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Future Consideration</label>
+            <language>en</language>
+            <name>x_agfid_shr_shr</name>
+            <sequence>1</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-10-31 18:47:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>21a8385fdbcacb8033e176721f96191c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-10-31 18:47:10</sys_updated_on>
+            <value>Future Consideration</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>cm_ea_arb_it_standard_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>New Buy / Purchase</label>
+            <language>en</language>
+            <name>x_agfid_shr_shr</name>
+            <sequence>2</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-10-31 18:47:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>61a8385fdbcacb8033e176721f96191c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-10-31 18:47:10</sys_updated_on>
+            <value>New Buy / Purchase</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>cm_ea_arb_it_standard_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Not Permitted/Allowed</label>
+            <language>en</language>
+            <name>x_agfid_shr_shr</name>
+            <sequence>3</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-10-31 18:47:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a1a8385fdbcacb8033e176721f96191c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-10-31 18:47:10</sys_updated_on>
+            <value>Not Permitted/Allowed</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>cm_ea_arb_it_standard_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Phasing Out</label>
+            <language>en</language>
+            <name>x_agfid_shr_shr</name>
+            <sequence>4</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-10-31 18:47:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e1a8385fdbcacb8033e176721f96191c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-10-31 18:47:10</sys_updated_on>
+            <value>Phasing Out</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>cm_ea_arb_it_standard_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Retired</label>
+            <language>en</language>
+            <name>x_agfid_shr_shr</name>
+            <sequence>5</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-10-31 18:47:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>25a8385fdbcacb8033e176721f96191c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-10-31 18:47:10</sys_updated_on>
+            <value>Retired</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>cm_ea_arb_it_standard_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Supported Baseline</label>
+            <language>en</language>
+            <name>x_agfid_shr_shr</name>
+            <sequence>6</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-10-31 18:47:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>65a8385fdbcacb8033e176721f96191c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-10-31 18:47:10</sys_updated_on>
+            <value>Supported Baseline</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>cm_ea_arb_it_standard_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Supported Restricted</label>
+            <language>en</language>
+            <name>x_agfid_shr_shr</name>
+            <sequence>7</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-10-31 18:47:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a5a8385fdbcacb8033e176721f96191c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-10-31 18:47:10</sys_updated_on>
+            <value>Supported Restricted</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>cm_ea_arb_it_standard_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>N/A</label>
+            <language>en</language>
+            <name>x_agfid_shr_shr</name>
+            <sequence>8</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-10-31 18:47:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e5a8385fdbcacb8033e176721f96191c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-10-31 18:47:10</sys_updated_on>
+            <value>na</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>cm_ea_arb_it_standard_status</element>
+            <name>x_agfid_shr_shr</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-10-31 18:47:10</sys_created_on>
+            <sys_id>895047954f13130011d733718110c70d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>cm_ea_arb_it_standard_status</sys_name>
+            <sys_package display_value="SHR" source="x_agfid_shr">03e2363cdbe94700e2c0fd0e0f9619c7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SHR">03e2363cdbe94700e2c0fd0e0f9619c7</sys_scope>
+            <sys_update_name>sys_choice_x_agfid_shr_shr_cm_ea_arb_it_standard_status</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-10-31 18:47:10</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

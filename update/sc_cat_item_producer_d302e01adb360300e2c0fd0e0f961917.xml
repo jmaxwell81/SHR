@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_cat_item_producer">
+    <sc_cat_item_producer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <availability>on_desktop</availability>
+        <billable>false</billable>
+        <can_cancel>false</can_cancel>
+        <category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</category>
+        <cost>0</cost>
+        <custom_cart/>
+        <delivery_plan/>
+        <delivery_plan_script/>
+        <delivery_time>1970-01-03 00:00:00</delivery_time>
+        <description><![CDATA[<p><em><span style="font-size: 12pt;">If you are requesting the installation of approved software then you need to <span style="text-decoration: underline;"><span style="color: #205493;"><a style="color: #205493; text-decoration: underline;" title="contact the help desk" href="/sphome?id&#61;sc_cat_item&amp;sys_id&#61;456c0e450f4303009aac0cbce1050e7a" rel="nofollow">contact the help desk</a></span></span>.</span></em></p>
+<p><span style="font-size: 12pt;"><span style="font-size: 16px;">Before submitting new Software/Hardware request please </span><span style="color: #205493;"><a style="color: #205493; text-decoration: underline;" title="click here" href="sphome?id&#61;shr_list" target="_blank" rel="nofollow">click here</a></span><span style="font-size: 16px;"> to check if it is already approved. For a list of IT Standards, please </span><span style="color: #205493;"><span style="text-decoration: underline;"><a style="color: #205493; text-decoration: underline;" title="click here" href="https://sites.google.com/a/usaid.gov/strategic-plan-and-architecture/usaid-it-standards/IT-standards-categories?pli&#61;1" target="_blank" rel="nofollow">click here</a></span><span style="color: #000000;">.</span></span></span></p>
+<p><span style="font-size: 12pt;">Mission users: Please work with your systems manager so they may submit on your behalf. </span></p>
+<p> </p>]]></description>
+        <entitlement_script/>
+        <group/>
+        <icon/>
+        <ignore_price>true</ignore_price>
+        <image/>
+        <list_price>0</list_price>
+        <location/>
+        <meta/>
+        <mobile_hide_price>false</mobile_hide_price>
+        <mobile_picture/>
+        <mobile_picture_type>use_desktop_picture</mobile_picture_type>
+        <model/>
+        <name>Software and Hardware Approval Request</name>
+        <no_cart>false</no_cart>
+        <no_order>false</no_order>
+        <no_order_now>false</no_order_now>
+        <no_proceed_checkout>false</no_proceed_checkout>
+        <no_quantity>false</no_quantity>
+        <no_search>false</no_search>
+        <omit_price>false</omit_price>
+        <order>0</order>
+        <ordered_item_link/>
+        <picture/>
+        <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=d302e01adb360300e2c0fd0e0f961917&amp;sysparm_preview=true", "summary");</preview>
+        <price>0</price>
+        <recurring_frequency/>
+        <recurring_price>0</recurring_price>
+        <redirect_url>catalog_home</redirect_url>
+        <roles>snc_internal</roles>
+        <sc_catalogs>e0d08b13c3330100c8b837659bba8fb4</sc_catalogs>
+        <sc_ic_item_staging/>
+        <sc_ic_version/>
+        <script><![CDATA[gs.addInfoMessage('Thank you. Your request has been sucessfully submitted. The reference number is ' + current.number);
+//producer.redirect = "catalog_home.do?sysparm_catalog=e0d08b13c3330100c8b837659bba8fb4";
+current.short_description = producer.product_name;
+current.description = producer.product_name;
+producer.redirect('?id=shr_ticket&table=x_agfid_shr_shr&sys_id='+current.sys_id);]]></script>
+        <short_description>Use this form to request non-standard agency software or hardware.</short_description>
+        <show_variable_help_on_load>false</show_variable_help_on_load>
+        <start_closed>false</start_closed>
+        <sys_class_name>sc_cat_item_producer</sys_class_name>
+        <sys_created_by>vsheremeti@usaid.gov</sys_created_by>
+        <sys_created_on>2017-12-04 21:23:03</sys_created_on>
+        <sys_id>d302e01adb360300e2c0fd0e0f961917</sys_id>
+        <sys_mod_count>35</sys_mod_count>
+        <sys_name>Software and Hardware Approval Request</sys_name>
+        <sys_package display_value="SHR" source="x_agfid_shr">03e2363cdbe94700e2c0fd0e0f9619c7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SHR">03e2363cdbe94700e2c0fd0e0f9619c7</sys_scope>
+        <sys_update_name>sc_cat_item_producer_d302e01adb360300e2c0fd0e0f961917</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-06-05 15:50:59</sys_updated_on>
+        <table_name>x_agfid_shr_shr</table_name>
+        <template/>
+        <type>item</type>
+        <use_sc_layout>true</use_sc_layout>
+        <vendor/>
+        <view/>
+        <visible_bundle>true</visible_bundle>
+        <visible_guide>true</visible_guide>
+        <visible_standalone>true</visible_standalone>
+        <workflow/>
+    </sc_cat_item_producer>
+    <sys_translated_text action="delete_multiple" query="documentkey=d302e01adb360300e2c0fd0e0f961917"/>
+    <fx_price action="delete_multiple" query="id=d302e01adb360300e2c0fd0e0f961917"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>price</field>
+        <id>d302e01adb360300e2c0fd0e0f961917</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>vsheremeti@usaid.gov</sys_created_by>
+        <sys_created_on>2017-12-04 21:23:03</sys_created_on>
+        <sys_id>d462ec56db360300e2c0fd0e0f961999</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+        <sys_updated_on>2017-12-04 21:23:03</sys_updated_on>
+        <table>sc_cat_item_producer</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>recurring_price</field>
+        <id>d302e01adb360300e2c0fd0e0f961917</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>vsheremeti@usaid.gov</sys_created_by>
+        <sys_created_on>2017-12-04 21:23:03</sys_created_on>
+        <sys_id>9462ec56db360300e2c0fd0e0f96199a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+        <sys_updated_on>2017-12-04 21:23:03</sys_updated_on>
+        <table>sc_cat_item_producer</table>
+        <type>calculated</type>
+    </fx_price>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color>#0</average_image_color>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>icon</file_name>
+        <image_height>26</image_height>
+        <image_width>26</image_width>
+        <size_bytes>1477</size_bytes>
+        <size_compressed>1135</size_compressed>
+        <sys_created_by>ayaz.memon</sys_created_by>
+        <sys_created_on>2018-06-27 20:09:21</sys_created_on>
+        <sys_id>af6fbfc8db0bd700e2c0fd0e0f9619a3</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>ayaz.memon</sys_updated_by>
+        <sys_updated_on>2018-06-27 20:09:21</sys_updated_on>
+        <table_name>ZZ_YYsc_cat_item_producer</table_name>
+        <table_sys_id>d302e01adb360300e2c0fd0e0f961917</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="icon" sys_id="af6fbfc8db0bd700e2c0fd0e0f9619a3">af6fbfc8db0bd700e2c0fd0e0f9619a3</sys_attachment>
+        <sys_created_by>ayaz.memon</sys_created_by>
+        <sys_created_on>2018-06-27 20:09:21</sys_created_on>
+        <sys_id>ef6fbfc8db0bd700e2c0fd0e0f9619a3</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>fVR/TBtVHD8YLkDG5mZkwqa5HU6H0t5d22uvNzoovZZ1o4BQlAyWedy9ay9c7467Ky0Yo6BbwojTkfDXlrlsGrfEGMyCM9mUbC4ExBhwTpOJ8cecTseCWzL/0Sa+lpYRY3jJ3fu+730+n/d97/v93lBzY31JcXkxgiAlwd1sC5zL00/hWvg+u6fhSziVmf52s1UVzQSnA8QrqF0ADca4CGgBnNDXMw2qEaSgUAq3m+2hBoZXY1YujbEmYxqSHtU1SY3ju4GJdoGIpHiwxQsTGCoJHuwFKkSENB+ISrv7ddDa3xjm+7t5t4DV7EKrkwwUiAGTQ5MxWTGYpAfL6DLQTrtxDM1AzG4PthRUe6gZ9ak6QCmr08ITThfqcltJyuVyuKpQG0FSOGHH7YTFZmccBOOwodmBwd10QWRa2EB2L7jyYFHT1BgcTyQS1oTdquoRnHS73Thhw202C0RYjD7F5JIWxajIKbDA4HVJMyVVQdNrrkuNmx4Myx0hpoVCy8KKkb0oeGV4ktNw0krgsRieQxtmCxBXRxvhPg3gLcBQ4zoP8yFWrNhqdWoOKPDLOC2uy5lzCjwOZBADimlALJnBwsiZJl2CCeRkVuXj6a9B1oPF45LAOCm/0+4mnLTTFyBJts7r9NtYmnb5/F5fnYNw5QRWEqHHKkCuwxHw2e12J03ZnSTpp2i/gwiwBE2ybjh5l7lBxTA5hQc5rvSAS63KZXw64ExVD6uqnCuV5qhqqkZU1VCfL1Ma6I4Qx0tK2lmZzmY2XqBLvUAI6GoMzaSDkf4nClgWLoKiOYtgc9EWh8MpWDiahhZPEwLNdVEuu4hl+cKKG1gqZ+iBGlouIIZ3CKJAEryF5wFlIUkoyblpAS4FkXfTbjcnEhgOQxR4xpRMGWRrzyubWUuW0rllZE6JwCAtAhC5uGxiuyJynxaVeFUxqvElHCTgD7j4CkX8P+Wcc8EeSZvLzQkXy+0NFNjTOmzetjMPbUaQvNYg6w0nr198/qcPX0PXlS6mXjkyq/xYeGR249ZLG5m6+rEtZsGFvIrZkuQjf54s6fxlO+t5ef5mft29o68/+cxvneO9O959P/LD2D93mfLnxIrZhqnbzSMN+1NXz6TuTGo+NrWt9sr5geG9F9fd3IPOYAcf8x63ckVfX1mMTtwX5soOX++0Tlf4Szbdmvqs7drm2v71wtqCww3eo4dmOoc+2bIgBXqnBgKXqA0/z/MDC6PGGwfHT9NfUB+N7NxgTg80Dvorn0BmC3uGzVP5ysiBsuGHJx6tKnv1WM2bHHf8m692Hgpf/qO9qufxjplUMu9tsejY9l9PlMbfuY1UtSHbAo3J2O+j+rWXPu+4vG/9jcrxIem9U57J6W/zT55zfb917qnBJmpfb/390/MTd+Zqr54ovZu6sWaMSkx2Htj/ce3YrU+/a/KdfXZTkXx+4dzoQOXeQ38//dZfa1LFBDLfMSS23csT0z/WoL+R/aDuxcF/AVdQ3qLFBQAA</data>
+        <length>1500</length>
+        <position>1</position>
+        <sys_attachment display_value="icon" sys_id="af6fbfc8db0bd700e2c0fd0e0f9619a3">af6fbfc8db0bd700e2c0fd0e0f9619a3</sys_attachment>
+        <sys_created_by>ayaz.memon</sys_created_by>
+        <sys_created_on>2018-06-27 20:09:21</sys_created_on>
+        <sys_id>636fbfc8db0bd700e2c0fd0e0f9619a4</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color>#0</average_image_color>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>picture</file_name>
+        <image_height>27</image_height>
+        <image_width>27</image_width>
+        <size_bytes>1423</size_bytes>
+        <size_compressed>1067</size_compressed>
+        <sys_created_by>ayaz.memon</sys_created_by>
+        <sys_created_on>2018-06-28 18:23:52</sys_created_on>
+        <sys_id>8ce0bc68db8b1b00e2c0fd0e0f961948</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>ayaz.memon</sys_updated_by>
+        <sys_updated_on>2018-06-28 18:23:52</sys_updated_on>
+        <table_name>ZZ_YYsc_cat_item_producer</table_name>
+        <table_sys_id>d302e01adb360300e2c0fd0e0f961917</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="picture" sys_id="8ce0bc68db8b1b00e2c0fd0e0f961948">8ce0bc68db8b1b00e2c0fd0e0f961948</sys_attachment>
+        <sys_created_by>ayaz.memon</sys_created_by>
+        <sys_created_on>2018-06-28 18:23:52</sys_created_on>
+        <sys_id>cce0bc68db8b1b00e2c0fd0e0f961948</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>fVR9aBxFFN+UxKQx8atCTP3IspeI2u7t7t3t3e6SS7jc3qWHuZheYry2INnszOWW7Je7c80lKEoNSkUlLQYU2v7Rv8SPoKVBailCxJqElCK2FauV4gcKhihYoyitzl7u0iCSYXfmvbe/35s3897bg3293Y312+sJgmhM7ZIzeL3Xe+tuwfMrF649jpdmlMiifiuHxhQHEjFgDUMyZSgjMAMVMP7UAmwniOo6bSCLsukeSbUMv+Jh/EXDJrzR3lm0FXUUInIYjmhmlPrl9EcUqYEo9QSfZtN2HOa1XRMO7J/oHVAnRlURUJ0dZHtRwg4MiBSyaOimKxWjVMmvhGXPzFBkCYJGo9RaUNl0Hxm3HEjy/jCtsuEIGRH9HB+JhCI7yQDL8QwbZIIsHQhKIVYKBcjyoPBuDshJGTlZ3gtrUSqPkC0xzNjYmH8s6LecEYYTRZFhA0wgQGME7Y6bSCnSpuureJChqzqajTTLJD1dGbYKKEpRlSMYdjq97th0yxeFr4wpKjbD+VnGMJgK2kUZmNsc7Q6M25DJQNcqOCrOR863YavNqRUgUNdxdsHRS+cEKgN1aEATuRjLlbA4cukxR8MJVHTZUgve15QcpQoFDUhhPhEOimxYCMeTHCd3xcKJgCwIkXgiFu8KsZGKg41EbPEDzOWDgiCHggGBD/Icl+CFRIhNyqzAySJeYuvclOkixVRhhavd5HKbcqW4AxVkOQOWpVdKpS9vIcvNWzYZj5dKg3woraia6Rkf9rJZjhc62n4Iko5lkKV0SNr/RIHLIsLygkKDQESgQ6EwoBVBwJIqsEBQhvlIMEeV+WDDDayVM7ZgH3YlIEkNgRzgWJVWVcjTHIddKqIAsApyqiiIopJjKQaHCFQJaUiH5dqL6ags6ZqXW0lXzBEcJA1gTinoiOoY0cftvKZaptvOrOEwgbnJZTZ4ZP5TzhUT7hFPXG9OrKy3NzRxTzu4eSlj9W2CqLo/JccGipeXBz+783myoabpTZ+wxYequ4cmX71ah5+XS/P+LfXR74er5caWM6Mr3xztWvLdfhfYO5qsUmdj1nv35Gv//nq8pev41qmhntdAtN5/39Xsp0d/o787su/UAz+fPrhwRWi4cXaHvi2zTLRea645sdo8mD90eDp0cuEvPbfyVVvgtutNr++59ffZD1uq/txx8sW5LT9c/Hjp7uwnfcs/1bbqzKXLdvbCylCx9q2ZA7trVh+dbp/6oK0607H7ne3nrNYjW/d+0fBtaqdvdvKRTG9D0zFyvmey/ulp7mIbSNpvfA6d+bMNJw69tHQ8dQd/6vq2S3sWn2z6cfWPY/tii3r/jOs/N//u3PmpK2fmboDOnsFnnn1/8csHV7ufqyJeWJHPL/b986v3i0wleuWZrqED/wJK+78cjwUAAA==</data>
+        <length>1412</length>
+        <position>1</position>
+        <sys_attachment display_value="picture" sys_id="8ce0bc68db8b1b00e2c0fd0e0f961948">8ce0bc68db8b1b00e2c0fd0e0f961948</sys_attachment>
+        <sys_created_by>ayaz.memon</sys_created_by>
+        <sys_created_on>2018-06-28 18:23:52</sys_created_on>
+        <sys_id>40e0bc68db8b1b00e2c0fd0e0f961949</sys_id>
+    </sys_attachment_doc>
+</record_update>

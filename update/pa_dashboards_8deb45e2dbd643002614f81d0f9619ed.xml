@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="pa_dashboards">
+    <pa_dashboards action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <breakdown_source/>
+        <group/>
+        <groups/>
+        <is_breakdown>false</is_breakdown>
+        <managed_breakdown/>
+        <managed_publisher/>
+        <name>SHR</name>
+        <no_tabs>false</no_tabs>
+        <order/>
+        <owner display_value="">95b4163e6f331100eced658fae3ee407</owner>
+        <restrict_to_roles/>
+        <role_override>true</role_override>
+        <roles>x_agfid_shr.shr_fulfiller</roles>
+        <should_migrate_permissions>true</should_migrate_permissions>
+        <sys_class_name>pa_dashboards</sys_class_name>
+        <sys_created_by>vsheremeti@usaid.gov</sys_created_by>
+        <sys_created_on>2017-11-10 22:31:57</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8deb45e2dbd643002614f81d0f9619ed</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SHR</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="SHR" source="x_agfid_shr">03e2363cdbe94700e2c0fd0e0f9619c7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SHR">03e2363cdbe94700e2c0fd0e0f9619c7</sys_scope>
+        <sys_update_name>pa_dashboards_8deb45e2dbd643002614f81d0f9619ed</sys_update_name>
+        <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+        <sys_updated_on>2017-11-10 22:31:57</sys_updated_on>
+        <users/>
+        <visible_to>2</visible_to>
+    </pa_dashboards>
+</record_update>

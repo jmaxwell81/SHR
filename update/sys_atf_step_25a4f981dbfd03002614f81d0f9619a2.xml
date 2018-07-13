@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>There should be at least one record in 'sysapproval_approver' matching a query of
+Approver = Chair User2
+and Approval for = (empty)</description>
+        <display_name>Record Query</display_name>
+        <inputs/>
+        <inputs/>
+        <order>55</order>
+        <step_config display_value="Record Query">0270b8005f30220012b44adb7f46666a</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>emalsia@usaid.gov</sys_created_by>
+        <sys_created_on>2017-10-12 13:07:17</sys_created_on>
+        <sys_id>25a4f981dbfd03002614f81d0f9619a2</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Record Query</sys_name>
+        <sys_package display_value="SHR" source="x_agfid_shr">03e2363cdbe94700e2c0fd0e0f9619c7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SHR">03e2363cdbe94700e2c0fd0e0f9619c7</sys_scope>
+        <sys_update_name>sys_atf_step_25a4f981dbfd03002614f81d0f9619a2</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-05-30 07:54:15</sys_updated_on>
+        <table>sysapproval_approver</table>
+        <test display_value="Failed SHR Automated Test Sample">4ca47981dbfd03002614f81d0f9619e8</test>
+        <timeout>1970-01-01 00:00:05</timeout>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=25a4f981dbfd03002614f81d0f9619a2"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>25a4f981dbfd03002614f81d0f9619a2</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>emalsia@usaid.gov</sys_created_by>
+        <sys_created_on>2017-10-12 13:07:17</sys_created_on>
+        <sys_id>21a4f981dbfd03002614f81d0f9619a3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
+        <sys_updated_on>2017-10-12 13:07:17</sys_updated_on>
+        <value>sysapproval_approver</value>
+        <variable display_value="">6fe5f8405f30220012b44adb7f4666e4</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>25a4f981dbfd03002614f81d0f9619a2</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>emalsia@usaid.gov</sys_created_by>
+        <sys_created_on>2017-10-12 13:07:17</sys_created_on>
+        <sys_id>69a4f981dbfd03002614f81d0f9619a3</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
+        <sys_updated_on>2017-10-12 13:07:17</sys_updated_on>
+        <value>approver=2e5ce434dbf103002614f81d0f96197f^sysapproval={{step['c0a4b981dbfd03002614f81d0f961906'].record_id}}^EQ</value>
+        <variable display_value="">cf167c405f30220012b44adb7f46660d</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=25a4f981dbfd03002614f81d0f9619a2"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>field_values</field>
+        <id>25a4f981dbfd03002614f81d0f9619a2</id>
+        <sys_created_by>emalsia@usaid.gov</sys_created_by>
+        <sys_created_on>2017-10-12 13:07:17</sys_created_on>
+        <sys_id>e1a4f981dbfd03002614f81d0f9619a4</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
+        <sys_updated_on>2017-10-12 13:07:17</sys_updated_on>
+        <table>var__m_atf_input_variable_0270b8005f30220012b44adb7f46666a</table>
+        <value>approver=2e5ce434dbf103002614f81d0f96197f^sysapproval={{step['c0a4b981dbfd03002614f81d0f961906'].record_id}}^EQ</value>
+    </sys_element_mapping>
+</record_update>

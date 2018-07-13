@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>pa_shr_1</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>vsheremeti@usaid.gov</sys_created_by>
+        <sys_created_on>2017-11-10 22:32:27</sys_created_on>
+        <sys_id>071c81e2dbd643002614f81d0f961937</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Pa_shr_1</sys_name>
+        <sys_package display_value="SHR" source="x_agfid_shr">03e2363cdbe94700e2c0fd0e0f9619c7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SHR">03e2363cdbe94700e2c0fd0e0f9619c7</sys_scope>
+        <sys_update_name>sys_ui_view_071c81e2dbd643002614f81d0f961937</sys_update_name>
+        <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+        <sys_updated_on>2017-11-10 22:32:27</sys_updated_on>
+        <title>Pa_shr_1</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

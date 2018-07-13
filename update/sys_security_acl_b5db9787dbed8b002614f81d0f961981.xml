@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Write access for CM and CHAIR role</description>
+        <name>x_agfid_shr_shr.disposition_reason</name>
+        <operation display_value="write">write</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>emalsia@usaid.gov</sys_created_by>
+        <sys_created_on>2017-10-06 15:30:54</sys_created_on>
+        <sys_id>b5db9787dbed8b002614f81d0f961981</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>x_agfid_shr_shr.disposition_reason</sys_name>
+        <sys_package display_value="SHR" source="x_agfid_shr">03e2363cdbe94700e2c0fd0e0f9619c7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SHR">03e2363cdbe94700e2c0fd0e0f9619c7</sys_scope>
+        <sys_update_name>sys_security_acl_b5db9787dbed8b002614f81d0f961981</sys_update_name>
+        <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
+        <sys_updated_on>2017-10-10 15:13:53</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>

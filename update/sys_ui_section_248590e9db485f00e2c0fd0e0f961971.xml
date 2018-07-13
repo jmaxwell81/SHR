@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="248590e9db485f00e2c0fd0e0f961971" sys_domain="global" table="x_agfid_shr_shr" version="3" view="Request">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>vsheremeti@usaid.gov</sys_created_by>
+            <sys_created_on>2018-03-20 17:00:58</sys_created_on>
+            <sys_id>76ee9594db4197802614f81d0f961939</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_agfid_shr_shr" sys_domain="global" view="288590e9db485f00e2c0fd0e0f96196e">248590e9db485f00e2c0fd0e0f961971</sys_ui_section>
+            <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+            <sys_updated_on>2018-03-20 17:00:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>product_name</element>
+            <position>1</position>
+            <sys_created_by>vsheremeti@usaid.gov</sys_created_by>
+            <sys_created_on>2018-03-20 17:00:58</sys_created_on>
+            <sys_id>f6ee9594db4197802614f81d0f961939</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_agfid_shr_shr" sys_domain="global" view="288590e9db485f00e2c0fd0e0f96196e">248590e9db485f00e2c0fd0e0f961971</sys_ui_section>
+            <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+            <sys_updated_on>2018-03-20 17:00:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>product_type</element>
+            <position>2</position>
+            <sys_created_by>vsheremeti@usaid.gov</sys_created_by>
+            <sys_created_on>2018-03-20 17:00:58</sys_created_on>
+            <sys_id>7aee9594db4197802614f81d0f961939</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_agfid_shr_shr" sys_domain="global" view="288590e9db485f00e2c0fd0e0f96196e">248590e9db485f00e2c0fd0e0f961971</sys_ui_section>
+            <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+            <sys_updated_on>2018-03-20 17:00:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>product_version</element>
+            <position>3</position>
+            <sys_created_by>vsheremeti@usaid.gov</sys_created_by>
+            <sys_created_on>2018-03-20 17:00:58</sys_created_on>
+            <sys_id>faee9594db4197802614f81d0f961939</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_agfid_shr_shr" sys_domain="global" view="288590e9db485f00e2c0fd0e0f96196e">248590e9db485f00e2c0fd0e0f961971</sys_ui_section>
+            <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+            <sys_updated_on>2018-03-20 17:00:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>product_architecture</element>
+            <position>4</position>
+            <sys_created_by>vsheremeti@usaid.gov</sys_created_by>
+            <sys_created_on>2018-03-20 17:00:58</sys_created_on>
+            <sys_id>7eee9594db4197802614f81d0f961939</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_agfid_shr_shr" sys_domain="global" view="288590e9db485f00e2c0fd0e0f96196e">248590e9db485f00e2c0fd0e0f961971</sys_ui_section>
+            <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+            <sys_updated_on>2018-03-20 17:00:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>manufacturer</element>
+            <position>5</position>
+            <sys_created_by>vsheremeti@usaid.gov</sys_created_by>
+            <sys_created_on>2018-03-20 17:00:58</sys_created_on>
+            <sys_id>feee9594db4197802614f81d0f961939</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_agfid_shr_shr" sys_domain="global" view="288590e9db485f00e2c0fd0e0f96196e">248590e9db485f00e2c0fd0e0f961971</sys_ui_section>
+            <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+            <sys_updated_on>2018-03-20 17:00:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>manufacturer_webaddress</element>
+            <position>6</position>
+            <sys_created_by>vsheremeti@usaid.gov</sys_created_by>
+            <sys_created_on>2018-03-20 17:00:58</sys_created_on>
+            <sys_id>72ee9594db4197802614f81d0f96193a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_agfid_shr_shr" sys_domain="global" view="288590e9db485f00e2c0fd0e0f96196e">248590e9db485f00e2c0fd0e0f961971</sys_ui_section>
+            <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+            <sys_updated_on>2018-03-20 17:00:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>product_category</element>
+            <position>7</position>
+            <sys_created_by>vsheremeti@usaid.gov</sys_created_by>
+            <sys_created_on>2018-03-20 17:00:58</sys_created_on>
+            <sys_id>f2ee9594db4197802614f81d0f96193a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_agfid_shr_shr" sys_domain="global" view="288590e9db485f00e2c0fd0e0f96196e">248590e9db485f00e2c0fd0e0f961971</sys_ui_section>
+            <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+            <sys_updated_on>2018-03-20 17:00:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>requires_driver</element>
+            <position>8</position>
+            <sys_created_by>vsheremeti@usaid.gov</sys_created_by>
+            <sys_created_on>2018-03-20 17:00:58</sys_created_on>
+            <sys_id>76ee9594db4197802614f81d0f96193a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_agfid_shr_shr" sys_domain="global" view="288590e9db485f00e2c0fd0e0f96196e">248590e9db485f00e2c0fd0e0f961971</sys_ui_section>
+            <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+            <sys_updated_on>2018-03-20 17:00:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>driver_details</element>
+            <position>9</position>
+            <sys_created_by>vsheremeti@usaid.gov</sys_created_by>
+            <sys_created_on>2018-03-20 17:00:58</sys_created_on>
+            <sys_id>f6ee9594db4197802614f81d0f96193a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_agfid_shr_shr" sys_domain="global" view="288590e9db485f00e2c0fd0e0f96196e">248590e9db485f00e2c0fd0e0f961971</sys_ui_section>
+            <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+            <sys_updated_on>2018-03-20 17:00:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>total_estimated_cost</element>
+            <position>10</position>
+            <sys_created_by>vsheremeti@usaid.gov</sys_created_by>
+            <sys_created_on>2018-03-20 17:00:58</sys_created_on>
+            <sys_id>7aee9594db4197802614f81d0f96193a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_agfid_shr_shr" sys_domain="global" view="288590e9db485f00e2c0fd0e0f96196e">248590e9db485f00e2c0fd0e0f961971</sys_ui_section>
+            <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+            <sys_updated_on>2018-03-20 17:00:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>is_this_an_upgrade</element>
+            <position>11</position>
+            <sys_created_by>vsheremeti@usaid.gov</sys_created_by>
+            <sys_created_on>2018-03-20 17:00:58</sys_created_on>
+            <sys_id>faee9594db4197802614f81d0f96193a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_agfid_shr_shr" sys_domain="global" view="288590e9db485f00e2c0fd0e0f96196e">248590e9db485f00e2c0fd0e0f961971</sys_ui_section>
+            <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+            <sys_updated_on>2018-03-20 17:00:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>12</position>
+            <sys_created_by>vsheremeti@usaid.gov</sys_created_by>
+            <sys_created_on>2018-03-20 17:00:58</sys_created_on>
+            <sys_id>7eee9594db4197802614f81d0f96193a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_agfid_shr_shr" sys_domain="global" view="288590e9db485f00e2c0fd0e0f96196e">248590e9db485f00e2c0fd0e0f961971</sys_ui_section>
+            <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+            <sys_updated_on>2018-03-20 17:00:58</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>disposition</element>
+            <position>13</position>
+            <sys_created_by>vsheremeti@usaid.gov</sys_created_by>
+            <sys_created_on>2018-03-20 17:00:58</sys_created_on>
+            <sys_id>feee9594db4197802614f81d0f96193a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_agfid_shr_shr" sys_domain="global" view="288590e9db485f00e2c0fd0e0f96196e">248590e9db485f00e2c0fd0e0f961971</sys_ui_section>
+            <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+            <sys_updated_on>2018-03-20 17:00:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>restricted_use_comment</element>
+            <position>14</position>
+            <sys_created_by>vsheremeti@usaid.gov</sys_created_by>
+            <sys_created_on>2018-03-20 17:00:58</sys_created_on>
+            <sys_id>72ee9594db4197802614f81d0f96193b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_agfid_shr_shr" sys_domain="global" view="288590e9db485f00e2c0fd0e0f96196e">248590e9db485f00e2c0fd0e0f961971</sys_ui_section>
+            <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+            <sys_updated_on>2018-03-20 17:00:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>shar_review_comment</element>
+            <position>15</position>
+            <sys_created_by>vsheremeti@usaid.gov</sys_created_by>
+            <sys_created_on>2018-03-20 17:00:58</sys_created_on>
+            <sys_id>f2ee9594db4197802614f81d0f96193b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_agfid_shr_shr" sys_domain="global" view="288590e9db485f00e2c0fd0e0f96196e">248590e9db485f00e2c0fd0e0f961971</sys_ui_section>
+            <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+            <sys_updated_on>2018-03-20 17:00:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>opened_by</element>
+            <position>16</position>
+            <sys_created_by>vsheremeti@usaid.gov</sys_created_by>
+            <sys_created_on>2018-03-20 17:00:58</sys_created_on>
+            <sys_id>76ee9594db4197802614f81d0f96193b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_agfid_shr_shr" sys_domain="global" view="288590e9db485f00e2c0fd0e0f96196e">248590e9db485f00e2c0fd0e0f961971</sys_ui_section>
+            <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+            <sys_updated_on>2018-03-20 17:00:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>requested_by</element>
+            <position>17</position>
+            <sys_created_by>vsheremeti@usaid.gov</sys_created_by>
+            <sys_created_on>2018-03-20 17:00:58</sys_created_on>
+            <sys_id>f6ee9594db4197802614f81d0f96193b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_agfid_shr_shr" sys_domain="global" view="288590e9db485f00e2c0fd0e0f96196e">248590e9db485f00e2c0fd0e0f961971</sys_ui_section>
+            <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+            <sys_updated_on>2018-03-20 17:00:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>requested_by.phone</element>
+            <position>18</position>
+            <sys_created_by>vsheremeti@usaid.gov</sys_created_by>
+            <sys_created_on>2018-03-20 17:00:58</sys_created_on>
+            <sys_id>7aee9594db4197802614f81d0f96193b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_agfid_shr_shr" sys_domain="global" view="288590e9db485f00e2c0fd0e0f96196e">248590e9db485f00e2c0fd0e0f961971</sys_ui_section>
+            <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+            <sys_updated_on>2018-03-20 17:00:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>requested_by.email</element>
+            <position>19</position>
+            <sys_created_by>vsheremeti@usaid.gov</sys_created_by>
+            <sys_created_on>2018-03-20 17:00:58</sys_created_on>
+            <sys_id>faee9594db4197802614f81d0f96193b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_agfid_shr_shr" sys_domain="global" view="288590e9db485f00e2c0fd0e0f96196e">248590e9db485f00e2c0fd0e0f961971</sys_ui_section>
+            <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+            <sys_updated_on>2018-03-20 17:00:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>requesters_department</element>
+            <position>20</position>
+            <sys_created_by>vsheremeti@usaid.gov</sys_created_by>
+            <sys_created_on>2018-03-20 17:00:58</sys_created_on>
+            <sys_id>7eee9594db4197802614f81d0f96193b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_agfid_shr_shr" sys_domain="global" view="288590e9db485f00e2c0fd0e0f96196e">248590e9db485f00e2c0fd0e0f961971</sys_ui_section>
+            <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+            <sys_updated_on>2018-03-20 17:00:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>usaid_owner</element>
+            <position>21</position>
+            <sys_created_by>vsheremeti@usaid.gov</sys_created_by>
+            <sys_created_on>2018-03-20 17:00:58</sys_created_on>
+            <sys_id>feee9594db4197802614f81d0f96193b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_agfid_shr_shr" sys_domain="global" view="288590e9db485f00e2c0fd0e0f96196e">248590e9db485f00e2c0fd0e0f961971</sys_ui_section>
+            <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+            <sys_updated_on>2018-03-20 17:00:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>connects_to_aidnet</element>
+            <position>22</position>
+            <sys_created_by>vsheremeti@usaid.gov</sys_created_by>
+            <sys_created_on>2018-03-20 17:00:58</sys_created_on>
+            <sys_id>3aee9594db4197802614f81d0f961948</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_agfid_shr_shr" sys_domain="global" view="288590e9db485f00e2c0fd0e0f96196e">248590e9db485f00e2c0fd0e0f961971</sys_ui_section>
+            <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+            <sys_updated_on>2018-03-20 17:00:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>connects_to_gfe</element>
+            <position>23</position>
+            <sys_created_by>vsheremeti@usaid.gov</sys_created_by>
+            <sys_created_on>2018-03-20 17:00:58</sys_created_on>
+            <sys_id>baee9594db4197802614f81d0f961948</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_agfid_shr_shr" sys_domain="global" view="288590e9db485f00e2c0fd0e0f96196e">248590e9db485f00e2c0fd0e0f961971</sys_ui_section>
+            <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+            <sys_updated_on>2018-03-20 17:00:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number_of_licenses</element>
+            <position>24</position>
+            <sys_created_by>vsheremeti@usaid.gov</sys_created_by>
+            <sys_created_on>2018-03-20 17:00:58</sys_created_on>
+            <sys_id>3eee9594db4197802614f81d0f961948</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_agfid_shr_shr" sys_domain="global" view="288590e9db485f00e2c0fd0e0f96196e">248590e9db485f00e2c0fd0e0f961971</sys_ui_section>
+            <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+            <sys_updated_on>2018-03-20 17:00:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>quantity_of_requested_hardware</element>
+            <position>25</position>
+            <sys_created_by>vsheremeti@usaid.gov</sys_created_by>
+            <sys_created_on>2018-03-20 17:00:58</sys_created_on>
+            <sys_id>beee9594db4197802614f81d0f961948</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_agfid_shr_shr" sys_domain="global" view="288590e9db485f00e2c0fd0e0f96196e">248590e9db485f00e2c0fd0e0f961971</sys_ui_section>
+            <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+            <sys_updated_on>2018-03-20 17:00:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>26</position>
+            <sys_created_by>vsheremeti@usaid.gov</sys_created_by>
+            <sys_created_on>2018-03-20 17:00:58</sys_created_on>
+            <sys_id>32ee9594db4197802614f81d0f961949</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_agfid_shr_shr" sys_domain="global" view="288590e9db485f00e2c0fd0e0f96196e">248590e9db485f00e2c0fd0e0f961971</sys_ui_section>
+            <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+            <sys_updated_on>2018-03-20 17:00:58</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>product_description</element>
+            <position>27</position>
+            <sys_created_by>vsheremeti@usaid.gov</sys_created_by>
+            <sys_created_on>2018-03-20 17:00:58</sys_created_on>
+            <sys_id>b2ee9594db4197802614f81d0f961949</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_agfid_shr_shr" sys_domain="global" view="288590e9db485f00e2c0fd0e0f96196e">248590e9db485f00e2c0fd0e0f961971</sys_ui_section>
+            <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+            <sys_updated_on>2018-03-20 17:00:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>minimum_system_requirements</element>
+            <position>28</position>
+            <sys_created_by>vsheremeti@usaid.gov</sys_created_by>
+            <sys_created_on>2018-03-20 17:00:58</sys_created_on>
+            <sys_id>36ee9594db4197802614f81d0f961949</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_agfid_shr_shr" sys_domain="global" view="288590e9db485f00e2c0fd0e0f96196e">248590e9db485f00e2c0fd0e0f961971</sys_ui_section>
+            <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+            <sys_updated_on>2018-03-20 17:00:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>need_statement</element>
+            <position>29</position>
+            <sys_created_by>vsheremeti@usaid.gov</sys_created_by>
+            <sys_created_on>2018-03-20 17:00:58</sys_created_on>
+            <sys_id>b6ee9594db4197802614f81d0f961949</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_agfid_shr_shr" sys_domain="global" view="288590e9db485f00e2c0fd0e0f96196e">248590e9db485f00e2c0fd0e0f961971</sys_ui_section>
+            <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+            <sys_updated_on>2018-03-20 17:00:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_agfid_shr_shr</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>vsheremeti@usaid.gov</sys_created_by>
+            <sys_created_on>2018-02-02 15:49:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>248590e9db485f00e2c0fd0e0f961971</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_agfid_shr_shr</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="SHR" source="x_agfid_shr">03e2363cdbe94700e2c0fd0e0f9619c7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SHR">03e2363cdbe94700e2c0fd0e0f9619c7</sys_scope>
+            <sys_update_name>sys_ui_section_248590e9db485f00e2c0fd0e0f961971</sys_update_name>
+            <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+            <sys_updated_on>2018-02-02 15:49:51</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Request" name="Request">288590e9db485f00e2c0fd0e0f96196e</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="disposition_reason" table="x_agfid_shr_shr" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>disposition_reason</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>12220</label>
+            <language>en</language>
+            <name>x_agfid_shr_shr</name>
+            <sequence>0</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-10-31 18:47:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a1a8385fdbcacb8033e176721f96191f</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+            <sys_updated_on>2018-04-13 18:02:06</sys_updated_on>
+            <value>12220</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>disposition_reason</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>No version number</label>
+            <language>en</language>
+            <name>x_agfid_shr_shr</name>
+            <sequence>0</sequence>
+            <sys_created_by>vsheremeti@usaid.gov</sys_created_by>
+            <sys_created_on>2018-03-01 19:14:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e86740d6dbe85f00e2c0fd0e0f9619b4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+            <sys_updated_on>2018-03-01 19:14:58</sys_updated_on>
+            <value>No version number</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>disposition_reason</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>12482</label>
+            <language>en</language>
+            <name>x_agfid_shr_shr</name>
+            <sequence>1</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-10-31 18:47:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e1a8385fdbcacb8033e176721f96191f</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+            <sys_updated_on>2018-04-13 18:02:06</sys_updated_on>
+            <value>12482</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>disposition_reason</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Not USAID Approved Standard</label>
+            <language>en</language>
+            <name>x_agfid_shr_shr</name>
+            <sequence>1</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-10-31 18:47:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a9a8385fdbcacb8033e176721f96191f</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+            <sys_updated_on>2018-04-13 18:02:06</sys_updated_on>
+            <value>Not USAID Approved Standard</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>disposition_reason</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>12591</label>
+            <language>en</language>
+            <name>x_agfid_shr_shr</name>
+            <sequence>2</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-10-31 18:47:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>25a8385fdbcacb8033e176721f96191f</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+            <sys_updated_on>2018-04-13 18:02:06</sys_updated_on>
+            <value>12591</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>disposition_reason</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other - legacy</label>
+            <language>en</language>
+            <name>x_agfid_shr_shr</name>
+            <sequence>2</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-10-31 18:47:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e9a8385fdbcacb8033e176721f96191f</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+            <sys_updated_on>2018-04-13 18:02:06</sys_updated_on>
+            <value>Other - legacy</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>disposition_reason</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>12592</label>
+            <language>en</language>
+            <name>x_agfid_shr_shr</name>
+            <sequence>3</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-10-31 18:47:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>65a8385fdbcacb8033e176721f96191f</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+            <sys_updated_on>2018-04-13 18:02:06</sys_updated_on>
+            <value>12592</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>disposition_reason</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>USAID Approved Standard</label>
+            <language>en</language>
+            <name>x_agfid_shr_shr</name>
+            <sequence>3</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-10-31 18:47:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2da8385fdbcacb8033e176721f96191f</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+            <sys_updated_on>2018-04-13 18:02:06</sys_updated_on>
+            <value>USAID Approved Standard</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>disposition_reason</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>12593</label>
+            <language>en</language>
+            <name>x_agfid_shr_shr</name>
+            <sequence>4</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-10-31 18:47:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a5a8385fdbcacb8033e176721f96191f</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+            <sys_updated_on>2018-04-13 18:02:06</sys_updated_on>
+            <value>12593</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>disposition_reason</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Cancelled at Submitter's Request</label>
+            <language>en</language>
+            <name>x_agfid_shr_shr</name>
+            <sequence>4</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-10-31 18:47:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6da8385fdbcacb8033e176721f96191f</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+            <sys_updated_on>2018-04-13 18:02:06</sys_updated_on>
+            <value>Cancelled at Submitter's Request</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>disposition_reason</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>12610</label>
+            <language>en</language>
+            <name>x_agfid_shr_shr</name>
+            <sequence>5</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-10-31 18:47:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e5a8385fdbcacb8033e176721f96191f</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+            <sys_updated_on>2018-04-13 18:02:06</sys_updated_on>
+            <value>12610</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>disposition_reason</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CIO Decision</label>
+            <language>en</language>
+            <name>x_agfid_shr_shr</name>
+            <sequence>5</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-10-31 18:47:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ada8385fdbcacb8033e176721f96191f</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+            <sys_updated_on>2018-04-13 18:02:06</sys_updated_on>
+            <value>CIO Decision</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>disposition_reason</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>12611</label>
+            <language>en</language>
+            <name>x_agfid_shr_shr</name>
+            <sequence>6</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-10-31 18:47:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>29a8385fdbcacb8033e176721f96191f</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+            <sys_updated_on>2018-04-13 18:02:07</sys_updated_on>
+            <value>12611</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>disposition_reason</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Non-business related</label>
+            <language>en</language>
+            <name>x_agfid_shr_shr</name>
+            <sequence>6</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-10-31 18:47:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>eda8385fdbcacb8033e176721f96191f</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+            <sys_updated_on>2018-04-13 18:02:06</sys_updated_on>
+            <value>Non-business related</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>disposition_reason</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>12612</label>
+            <language>en</language>
+            <name>x_agfid_shr_shr</name>
+            <sequence>7</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-10-31 18:47:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>69a8385fdbcacb8033e176721f96191f</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+            <sys_updated_on>2018-04-13 18:02:07</sys_updated_on>
+            <value>12612</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>disposition_reason</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Grandfathered</label>
+            <language>en</language>
+            <name>x_agfid_shr_shr</name>
+            <sequence>7</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-10-31 18:47:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>21a8385fdbcacb8033e176721f961920</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+            <sys_updated_on>2018-04-13 18:02:06</sys_updated_on>
+            <value>Grandfathered</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>disposition_reason</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Security Concerns</label>
+            <language>en</language>
+            <name>x_agfid_shr_shr</name>
+            <sequence>8</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-10-31 18:47:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>61a8385fdbcacb8033e176721f961920</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+            <sys_updated_on>2018-04-13 18:02:06</sys_updated_on>
+            <value>Security Concerns</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>disposition_reason</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Deferred</label>
+            <language>en</language>
+            <name>x_agfid_shr_shr</name>
+            <sequence>9</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-10-31 18:47:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a1a8385fdbcacb8033e176721f961920</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+            <sys_updated_on>2018-04-13 18:02:06</sys_updated_on>
+            <value>Deferred</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>disposition_reason</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>No information provided</label>
+            <language>en</language>
+            <name>x_agfid_shr_shr</name>
+            <sequence>10</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-10-31 18:47:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e1a8385fdbcacb8033e176721f961920</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+            <sys_updated_on>2018-04-13 18:02:06</sys_updated_on>
+            <value>No information provided</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>disposition_reason</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>No response from submitter</label>
+            <language>en</language>
+            <name>x_agfid_shr_shr</name>
+            <sequence>11</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-10-31 18:47:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>25a8385fdbcacb8033e176721f961920</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+            <sys_updated_on>2018-04-13 18:02:06</sys_updated_on>
+            <value>No response from submitter</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>disposition_reason</element>
+            <name>x_agfid_shr_shr</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-10-31 18:47:10</sys_created_on>
+            <sys_id>495047954f13130011d733718110c72f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>disposition_reason</sys_name>
+            <sys_package display_value="SHR" source="x_agfid_shr">03e2363cdbe94700e2c0fd0e0f9619c7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SHR">03e2363cdbe94700e2c0fd0e0f9619c7</sys_scope>
+            <sys_update_name>sys_choice_x_agfid_shr_shr_disposition_reason</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-10-31 18:47:10</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

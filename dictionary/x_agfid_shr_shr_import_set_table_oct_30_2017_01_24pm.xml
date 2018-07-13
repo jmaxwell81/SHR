@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="SHR Import set table OCT-30-2017 01:24PM" max_length="40" name="x_agfid_shr_shr_import_set_table_oct_30_2017_01_24pm" type="collection">
+        <element attributes="import_attribute_name=active,edge_encryption_enabled=true" label="active" max_length="40" name="u_active" type="string"/>
+        <element attributes="import_attribute_name=additional_review_comment,edge_encryption_enabled=true" label="additional_review_comment" max_length="1658" name="u_additional_review_comment" type="string"/>
+        <element attributes="import_attribute_name=approval,edge_encryption_enabled=true" label="approval" max_length="40" name="u_approval" type="string"/>
+        <element attributes="import_attribute_name=arb_status,edge_encryption_enabled=true" label="arb_status" max_length="40" name="u_arb_status" type="string"/>
+        <element attributes="import_attribute_name=assignment_group,edge_encryption_enabled=true" label="assignment_group" max_length="40" name="u_assignment_group" type="string"/>
+        <element attributes="import_attribute_name=ciso_governance_comment,edge_encryption_enabled=true" label="ciso_governance_comment" max_length="5130" name="u_ciso_governance_comment" type="string"/>
+        <element attributes="import_attribute_name=ciso_results,edge_encryption_enabled=true" label="ciso_results" max_length="40" name="u_ciso_results" type="string"/>
+        <element attributes="import_attribute_name=ciso_review_date" label="ciso_review_date" max_length="40" name="u_ciso_review_date" type="glide_date"/>
+        <element attributes="import_attribute_name=closed_at" label="closed_at" max_length="40" name="u_closed_at" type="glide_date"/>
+        <element attributes="import_attribute_name=cm_ea_application_infrastructure_library,edge_encryption_enabled=true" label="cm_ea_application_infrastructure_library" max_length="64" name="u_cm_ea_applic_ucture_library" type="string"/>
+        <element attributes="import_attribute_name=cm_ea_ilab_testing_required,edge_encryption_enabled=true" label="cm_ea_ilab_testing_required" max_length="40" name="u_cm_ea_ilab_testing_required" type="string"/>
+        <element attributes="import_attribute_name=disposition,edge_encryption_enabled=true" label="disposition" max_length="40" name="u_disposition" type="string"/>
+        <element attributes="import_attribute_name=disposition_reason,edge_encryption_enabled=true" label="disposition_reason" max_length="40" name="u_disposition_reason" type="string"/>
+        <element attributes="import_attribute_name=ilab_application_dependencies,edge_encryption_enabled=true" label="ilab_application_dependencies" max_length="196" name="u_ilab_applica_n_dependencies" type="string"/>
+        <element attributes="import_attribute_name=ilab_comment,edge_encryption_enabled=true" label="ilab_comment" max_length="3036" name="u_ilab_comment" type="string"/>
+        <element attributes="import_attribute_name=ilab_os_patch_and_component_dependencies,edge_encryption_enabled=true" label="ilab_os_patch_and_component_dependencies" max_length="238" name="u_ilab_os_patc_t_dependencies" type="string"/>
+        <element attributes="import_attribute_name=ilab_report_date,edge_encryption_enabled=true" label="ilab_report_date" max_length="40" name="u_ilab_report_date" type="string"/>
+        <element attributes="import_attribute_name=ilab_required_elevated_rights,edge_encryption_enabled=true" label="ilab_required_elevated_rights" max_length="40" name="u_ilab_require_levated_rights" type="string"/>
+        <element attributes="import_attribute_name=ilab_results,edge_encryption_enabled=true" label="ilab_results" max_length="40" name="u_ilab_results" type="string"/>
+        <element attributes="import_attribute_name=ilab_server_software_requirements,edge_encryption_enabled=true" label="ilab_server_software_requirements" max_length="88" name="u_ilab_server__e_requirements" type="string"/>
+        <element attributes="import_attribute_name=ilab_sms_package_recommended,edge_encryption_enabled=true" label="ilab_sms_package_recommended" max_length="40" name="u_ilab_sms_package_recommended" type="string"/>
+        <element attributes="import_attribute_name=ilab_usaid_standard_desktop_sec_test,edge_encryption_enabled=true" label="ilab_usaid_standard_desktop_sec_test" max_length="40" name="u_ilab_usaid_s_sktop_sec_test" type="string"/>
+        <element attributes="import_attribute_name=ilab_usaid_standard_desktop_image_test,edge_encryption_enabled=true" label="ilab_usaid_standard_desktop_image_test" max_length="40" name="u_ilab_usaid_s_top_image_test" type="string"/>
+        <element attributes="import_attribute_name=imported_details,edge_encryption_enabled=true" label="imported_details" max_length="403" name="u_imported_details" type="string"/>
+        <element attributes="import_attribute_name=include_on_standard_image,edge_encryption_enabled=true" label="include_on_standard_image" max_length="40" name="u_include_on_standard_image" type="string"/>
+        <element attributes="import_attribute_name=manufacturer,edge_encryption_enabled=true" label="manufacturer" max_length="178" name="u_manufacturer" type="string"/>
+        <element attributes="import_attribute_name=manufacturer_webaddress,edge_encryption_enabled=true" label="manufacturer_webaddress" max_length="254" name="u_manufacturer_webaddress" type="string"/>
+        <element attributes="import_attribute_name=minimum_system_requirements,edge_encryption_enabled=true" label="minimum_system_requirements" max_length="29294" name="u_minimum_system_requirements" type="string"/>
+        <element attributes="import_attribute_name=need_statement,edge_encryption_enabled=true" label="need_statement" max_length="19640" name="u_need_statement" type="string"/>
+        <element attributes="import_attribute_name=number_of_licenses,edge_encryption_enabled=true" label="number_of_licenses" max_length="254" name="u_number_of_licenses" type="string"/>
+        <element attributes="import_attribute_name=opened_at" label="opened_at" max_length="40" name="u_opened_at" type="glide_date"/>
+        <element attributes="import_attribute_name=opened_by,edge_encryption_enabled=true" label="opened_by" max_length="40" name="u_opened_by" type="string"/>
+        <element attributes="import_attribute_name=product_architecture,edge_encryption_enabled=true" label="product_architecture" max_length="42" name="u_product_architecture" type="string"/>
+        <element attributes="import_attribute_name=product_category,edge_encryption_enabled=true" label="product_category" max_length="40" name="u_product_category" type="string"/>
+        <element attributes="import_attribute_name=product_description,edge_encryption_enabled=true" label="product_description" max_length="29766" name="u_product_description" type="string"/>
+        <element attributes="import_attribute_name=product_name,edge_encryption_enabled=true" label="product_name" max_length="112" name="u_product_name" type="string"/>
+        <element attributes="import_attribute_name=product_type,edge_encryption_enabled=true" label="product_type" max_length="40" name="u_product_type" type="string"/>
+        <element attributes="import_attribute_name=product_version,edge_encryption_enabled=true" label="product_version" max_length="126" name="u_product_version" type="string"/>
+        <element attributes="import_attribute_name=requested_by,edge_encryption_enabled=true" label="requested_by" max_length="40" name="u_requested_by" type="string"/>
+        <element attributes="import_attribute_name=restricted_use_comment,edge_encryption_enabled=true" label="restricted_use_comment" max_length="3077" name="u_restricted_use_comment" type="string"/>
+        <element attributes="import_attribute_name=shar_review_comment,edge_encryption_enabled=true" label="shar_review_comment" max_length="1867" name="u_shar_review_comment" type="string"/>
+        <element attributes="import_attribute_name=state" label="state" max_length="40" name="u_state" type="integer"/>
+        <element attributes="import_attribute_name=total_estimated_cost" label="total_estimated_cost" max_length="15" name="u_total_estimated_cost" type="decimal"/>
+    </element>
+</database>

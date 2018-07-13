@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="ciso_security_engineering_comment" label="CISO Security Engineering Comment" language="en" table="x_agfid_shr_shr">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>ciso_security_engineering_comment</element>
+            <help/>
+            <hint/>
+            <label>CISO Security Engineering Comment</label>
+            <language>en</language>
+            <name>x_agfid_shr_shr</name>
+            <plural>CISO Security Engineering Comments</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>emalsia@usaid.gov</sys_created_by>
+            <sys_created_on>2017-09-29 13:28:39</sys_created_on>
+            <sys_id>e7dcf6b4db2d4700e2c0fd0e0f9619ab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>CISO Security Engineering Comment</sys_name>
+            <sys_package display_value="SHR" source="x_agfid_shr">03e2363cdbe94700e2c0fd0e0f9619c7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SHR">03e2363cdbe94700e2c0fd0e0f9619c7</sys_scope>
+            <sys_update_name>sys_documentation_x_agfid_shr_shr_ciso_security_engineering_comment_en</sys_update_name>
+            <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
+            <sys_updated_on>2017-09-29 13:28:39</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

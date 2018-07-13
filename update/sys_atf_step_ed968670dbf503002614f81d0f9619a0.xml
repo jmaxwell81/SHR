@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>Open the 'SHR' form with id '{{Step 4: Submit a Form.Record}}'</description>
+        <display_name>Open an Existing Record</display_name>
+        <inputs/>
+        <inputs/>
+        <order>46</order>
+        <step_config display_value="Open an Existing Record">5f2e0e535332120028bc29cac2dc34d3</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>emalsia@usaid.gov</sys_created_by>
+        <sys_created_on>2017-10-11 19:47:41</sys_created_on>
+        <sys_id>ed968670dbf503002614f81d0f9619a0</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Open an Existing Record</sys_name>
+        <sys_package display_value="SHR" source="x_agfid_shr">03e2363cdbe94700e2c0fd0e0f9619c7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SHR">03e2363cdbe94700e2c0fd0e0f9619c7</sys_scope>
+        <sys_update_name>sys_atf_step_ed968670dbf503002614f81d0f9619a0</sys_update_name>
+        <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
+        <sys_updated_on>2017-10-11 20:01:26</sys_updated_on>
+        <table>x_agfid_shr_shr</table>
+        <test display_value="Approved SHR Automated Test">eddfcdb8db3503002614f81d0f961947</test>
+        <timeout/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=ed968670dbf503002614f81d0f9619a0"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>ed968670dbf503002614f81d0f9619a0</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>emalsia@usaid.gov</sys_created_by>
+        <sys_created_on>2017-10-11 19:47:41</sys_created_on>
+        <sys_id>05b6ca70dbf503002614f81d0f961902</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
+        <sys_updated_on>2017-10-11 19:47:41</sys_updated_on>
+        <value>x_agfid_shr_shr</value>
+        <variable display_value="">b124164e53a0220002c6435723dc34c5</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>ed968670dbf503002614f81d0f9619a0</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>emalsia@usaid.gov</sys_created_by>
+        <sys_created_on>2017-10-11 19:47:41</sys_created_on>
+        <sys_id>81b6ca70dbf503002614f81d0f961901</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
+        <sys_updated_on>2017-10-11 19:47:41</sys_updated_on>
+        <value/>
+        <variable display_value="">ad351a4e53a0220002c6435723dc34f0</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>ed968670dbf503002614f81d0f9619a0</document_key>
+        <order>300</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>emalsia@usaid.gov</sys_created_by>
+        <sys_created_on>2017-10-11 19:47:41</sys_created_on>
+        <sys_id>c9b6ca70dbf503002614f81d0f961901</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
+        <sys_updated_on>2017-10-11 19:47:41</sys_updated_on>
+        <value/>
+        <variable display_value="">6e55da4e53a0220002c6435723dc34a0</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=ed968670dbf503002614f81d0f9619a0"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>record_id</field>
+        <id>ed968670dbf503002614f81d0f9619a0</id>
+        <sys_created_by>emalsia@usaid.gov</sys_created_by>
+        <sys_created_on>2017-10-11 19:47:41</sys_created_on>
+        <sys_id>4db6ca70dbf503002614f81d0f961900</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
+        <sys_updated_on>2017-10-11 19:47:41</sys_updated_on>
+        <table>var__m_atf_input_variable_5f2e0e535332120028bc29cac2dc34d3</table>
+        <value>{{step['3e861dbcdb3503002614f81d0f9619e7'].record_id}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>view</field>
+        <id>ed968670dbf503002614f81d0f9619a0</id>
+        <sys_created_by>emalsia@usaid.gov</sys_created_by>
+        <sys_created_on>2017-10-11 19:47:41</sys_created_on>
+        <sys_id>01b6ca70dbf503002614f81d0f961901</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
+        <sys_updated_on>2017-10-11 19:47:41</sys_updated_on>
+        <table>var__m_atf_input_variable_5f2e0e535332120028bc29cac2dc34d3</table>
+        <value/>
+    </sys_element_mapping>
+</record_update>

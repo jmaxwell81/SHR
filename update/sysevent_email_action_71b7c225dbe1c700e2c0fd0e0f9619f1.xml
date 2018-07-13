@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sysevent_email_action">
+    <sysevent_email_action action="INSERT_OR_UPDATE">
+        <action_insert>false</action_insert>
+        <action_update>false</action_update>
+        <active>true</active>
+        <advanced_condition/>
+        <affected_field_on_event/>
+        <category display_value="Uncategorized" name="Uncategorized">c97d83137f4432005f58108c3ffa917a</category>
+        <collection>x_agfid_shr_shr</collection>
+        <condition/>
+        <content_type>text/html</content_type>
+        <description>Send email notification when SHR SLA is breached</description>
+        <event_name>x_agfid_shr.shr.sla.breach</event_name>
+        <event_parm_1>true</event_parm_1>
+        <event_parm_2>false</event_parm_2>
+        <exclude_delegates>false</exclude_delegates>
+        <force_delivery>false</force_delivery>
+        <from/>
+        <generation_type>event</generation_type>
+        <importance/>
+        <include_attachments>false</include_attachments>
+        <item>event.parm1</item>
+        <item_table/>
+        <mandatory>false</mandatory>
+        <message/>
+        <message_html><![CDATA[<p>This is an automated message<br />Please be informed that SLA has&nbsp;breached for request number ${task.number}<br />Thank you.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Work notes: ${task.work_notes}<br />Updated by: ${task.sys_updated_by}</p>
+<div>Updated: ${task.sys_updated_on}</div>
+<div>Stage: ${task.stage}</div>
+<div>Requester's email: ${task.requester_s_email}</div>
+<div>Requested By: ${task.requested_by}</div>
+<div>Quantity of Requested Hardware: ${task.quantity_of_requested_hardware}</div>
+<div>Product Version: ${task.product_version}</div>
+<div>Product Type: ${task.product_type}</div>
+<div>Product Name: ${task.product_name}</div>
+<div>Opened by: ${task.opened_by}</div>
+<div>Opened: ${task.opened_at}</div>
+<div>Number of Licenses: ${task.number_of_licenses}</div>
+<div>Driver Details: ${task.driver_details}</div>
+<div>URI_Reference: ${task.URI_REF}</div>
+<div>Assignment group: ${task.assignment_group}</div>
+<div>Number: ${task.number}</div>]]></message_html>
+        <message_list/>
+        <message_text/>
+        <name>SHR SLA Breach</name>
+        <omit_watermark>false</omit_watermark>
+        <order>100</order>
+        <push_message_only>false</push_message_only>
+        <recipient_fields/>
+        <recipient_groups/>
+        <recipient_users/>
+        <reply_to/>
+        <send_self>false</send_self>
+        <sms_alternate/>
+        <style/>
+        <subject>SLA Breach Notification ${business_percentage}%</subject>
+        <subscribable>false</subscribable>
+        <sys_class_name>sysevent_email_action</sys_class_name>
+        <sys_created_by>emalsia@usaid.gov</sys_created_by>
+        <sys_created_on>2017-10-01 17:31:52</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>71b7c225dbe1c700e2c0fd0e0f9619f1</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>SHR SLA Breach</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="SHR" source="x_agfid_shr">03e2363cdbe94700e2c0fd0e0f9619c7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SHR">03e2363cdbe94700e2c0fd0e0f9619c7</sys_scope>
+        <sys_update_name>sysevent_email_action_71b7c225dbe1c700e2c0fd0e0f9619f1</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2017-11-10 02:46:45</sys_updated_on>
+        <sys_version>2</sys_version>
+        <template/>
+        <type>email</type>
+        <weight>0</weight>
+    </sysevent_email_action>
+</record_update>

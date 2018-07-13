@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="contract_sla">
+    <contract_sla action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <cancel_condition/>
+        <collection>x_agfid_shr_shr</collection>
+        <condition_class/>
+        <duration>1970-01-02 21:00:00</duration>
+        <duration_type/>
+        <enable_logging>false</enable_logging>
+        <name>SHR SLA</name>
+        <pause_condition table="x_agfid_shr_shr">state=-5^EQ<item endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="-5"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </pause_condition>
+        <relative_duration_works_on>Task record</relative_duration_works_on>
+        <reset_condition/>
+        <resume_condition/>
+        <retroactive>false</retroactive>
+        <retroactive_pause>true</retroactive_pause>
+        <schedule display_value="8-5 weekdays">08fcd0830a0a0b2600079f56b1adb9ae</schedule>
+        <schedule_source>sla_definition</schedule_source>
+        <schedule_source_field/>
+        <set_start_to>approval_set</set_start_to>
+        <start_condition table="x_agfid_shr_shr">active=true^assignment_group=6b0420c0db6dc300e2c0fd0e0f96191c^EQ<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+            <item endquery="false" field="assignment_group" goto="false" newquery="false" operator="=" or="false" value="6b0420c0db6dc300e2c0fd0e0f96191c"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </start_condition>
+        <stop_condition table="x_agfid_shr_shr">approval=rejected^ORapproval=approved^EQ<item endquery="false" field="approval" goto="false" newquery="false" operator="=" or="false" value="rejected"/>
+            <item endquery="false" field="approval" goto="false" newquery="false" operator="=" or="true" value="approved"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </stop_condition>
+        <sys_class_name>contract_sla</sys_class_name>
+        <sys_created_by>emalsia@usaid.gov</sys_created_by>
+        <sys_created_on>2017-10-01 17:18:29</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>39a48ee1dbe1c700e2c0fd0e0f961998</sys_id>
+        <sys_mod_count>12</sys_mod_count>
+        <sys_name>SHR SLA</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="SHR" source="x_agfid_shr">03e2363cdbe94700e2c0fd0e0f9619c7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SHR">03e2363cdbe94700e2c0fd0e0f9619c7</sys_scope>
+        <sys_update_name>contract_sla_39a48ee1dbe1c700e2c0fd0e0f961998</sys_update_name>
+        <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+        <sys_updated_on>2017-11-15 20:44:13</sys_updated_on>
+        <target/>
+        <timezone/>
+        <timezone_source>task.caller_id.time_zone</timezone_source>
+        <type>SLA</type>
+        <when_to_cancel>no_match</when_to_cancel>
+        <when_to_resume>no_match</when_to_resume>
+        <workflow display_value="SHR SLA">0d0482e1dbe1c700e2c0fd0e0f96199c</workflow>
+    </contract_sla>
+</record_update>

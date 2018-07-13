@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="System Import Sets">import_sets</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>SHR Infrastructure Lib Import set table OCT-30-2017 12:18PM</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_agfid_shr_shr_infrastructure_lib_import_set_table_oct_30_2017_12_18pm</name>
+        <order>1100</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <survey/>
+        <survey_overwrite>true</survey_overwrite>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>vsheremeti@usaid.gov</sys_created_by>
+        <sys_created_on>2017-10-30 16:19:52</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>3d5d87fadb0e0f00e2c0fd0e0f9619d6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SHR Infrastructure Lib Import set table OCT-30-2017 12:18PM</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="SHR" source="x_agfid_shr">03e2363cdbe94700e2c0fd0e0f9619c7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SHR">03e2363cdbe94700e2c0fd0e0f9619c7</sys_scope>
+        <sys_update_name>sys_app_module_3d5d87fadb0e0f00e2c0fd0e0f9619d6</sys_update_name>
+        <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+        <sys_updated_on>2017-10-30 16:19:52</sys_updated_on>
+        <timeline_page/>
+        <title>SHR Infrastructure Lib Import set table OCT-30-2017 12:18PM</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

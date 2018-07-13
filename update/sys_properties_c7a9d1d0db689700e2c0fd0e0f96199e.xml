@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>SHR activity formatter fields</description>
+        <ignore_cache>false</ignore_cache>
+        <is_private>false</is_private>
+        <name>glide.ui.x_agfid_shr_shr_activity.fields</name>
+        <read_roles/>
+        <suffix/>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>brett.karl</sys_created_by>
+        <sys_created_on>2018-02-23 20:06:39</sys_created_on>
+        <sys_id>c7a9d1d0db689700e2c0fd0e0f96199e</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>glide.ui.x_agfid_shr_shr_activity.fields</sys_name>
+        <sys_package display_value="SHR" source="x_agfid_shr">03e2363cdbe94700e2c0fd0e0f9619c7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SHR">03e2363cdbe94700e2c0fd0e0f9619c7</sys_scope>
+        <sys_update_name>sys_properties_c7a9d1d0db689700e2c0fd0e0f96199e</sys_update_name>
+        <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+        <sys_updated_on>2018-02-26 15:01:53</sys_updated_on>
+        <type>string</type>
+        <value>assigned_to,cmdb_ci,state,impact,priority,opened_by,work_notes,comments,*Attachments*,requesters_department,508_compliant,508_conditions,508_justification,508_provide_recommened_action,508_summary_of_evaluation,arb_status,active,activity_due,additional_review_comment,additional_assignee_list,approval,approval_history,approval_set,assignment_group,cmdb_ci_business_app,business_duration,business_service,ciso_fedramp_approved,ciso_governance_comment,ciso_results,ciso_review_date,ciso_security_engineering_comment,cm_disposition_recommendation,cm_ea_arb_it_standard_status,cm_ea_application_infrastructure_library,cm_ea_google_related,cm_ea_ilab_testing_required,closed_at,closed_by,comments_and_work_notes,company,connects_to_aidnet,connects_to_gfe,contact_type,contract,correlation_id,correlation_display,sys_created_on,sys_created_by,delivery_plan,delivery_task,description,disposition,disposition_reason,sys_domain,driver_details,due_date,calendar_duration,em_conditions,em_justification,em_recommended_action,em_summary_of_evaluation,escalation,expected_start,follow_up,group_list,ilab_application_dependencies,ilab_comment,ilab_os_patch_and_component_dependencies,ilab_report_date,ilab_required_elevated_rights,ilab_results,ilab_sms_package_recommended,ilab_server_software_requirements,ilab_usaid_standard_desktop_image_test,ilab_usaid_standard_desktop_sec_test,ilab_windows_10_certified,ilab_windows_7_certified,ito_conditions,ito_justification,ito_recommended_action,ito_summary_of_evaluation,imported_details,include_on_standard_image,is_this_an_upgrade,knowledge,location,made_sla,manufacturer,manufacturer_webaddress,minimum_system_requirements,need_statement,number,number_of_licenses,opened_at,order,parent,privacy_conditions,privacy_justification,privacy_recommended_action,privacy_summary_of_evaluation,product_architecture,product_category,product_description,product_name,product_type,product_version,quantity_of_requested_hardware,reassignment_count,requested_by,requesters_manager,requires_driver,close_notes,resolved_time,restricted_use_comment,u_string_1,u_root_cause,u_root_cause_comments,shar_review_comment,u_string_2,sla_due,short_description,skills,stage,u_sub_root_cause,sys_tags,sys_class_name,time_worked,total_estimated_cost,usaid_owner,sys_updated_on,sys_updated_by,sys_mod_count,upon_approval,upon_reject,urgency,user_input,watch_list,work_end,work_notes_list,work_start,*Email*,*Relations*</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=c7a9d1d0db689700e2c0fd0e0f96199e"/>
+</record_update>

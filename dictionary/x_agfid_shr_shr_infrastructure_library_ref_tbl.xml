@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="SHR Infrastructure Library Ref tbl" max_length="40" name="x_agfid_shr_shr_infrastructure_library_ref_tbl" type="collection">
+        <element display="true" label="Desc App Infr Lib" max_length="200" name="desc_app_infr_lib" type="string"/>
+    </element>
+</database>

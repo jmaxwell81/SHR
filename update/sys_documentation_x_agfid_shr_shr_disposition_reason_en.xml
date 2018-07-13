@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="disposition_reason" label="Disposition Reason" language="en" table="x_agfid_shr_shr">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>disposition_reason</element>
+            <help/>
+            <hint/>
+            <label>Disposition Reason</label>
+            <language>en</language>
+            <name>x_agfid_shr_shr</name>
+            <plural>Disposition Reasons</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>emalsia@usaid.gov</sys_created_by>
+            <sys_created_on>2017-10-10 15:07:09</sys_created_on>
+            <sys_id>b5ec371cdb394f002614f81d0f9619f3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Disposition Reason</sys_name>
+            <sys_package display_value="SHR" source="x_agfid_shr">03e2363cdbe94700e2c0fd0e0f9619c7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SHR">03e2363cdbe94700e2c0fd0e0f9619c7</sys_scope>
+            <sys_update_name>sys_documentation_x_agfid_shr_shr_disposition_reason_en</sys_update_name>
+            <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
+            <sys_updated_on>2017-10-10 15:07:09</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

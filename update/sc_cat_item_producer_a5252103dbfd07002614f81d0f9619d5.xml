@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_cat_item_producer">
+    <sc_cat_item_producer action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <availability>on_desktop</availability>
+        <billable>false</billable>
+        <can_cancel>false</can_cancel>
+        <category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</category>
+        <cost>0</cost>
+        <custom_cart/>
+        <delivery_plan/>
+        <delivery_plan_script/>
+        <delivery_time>1970-01-03 00:00:00</delivery_time>
+        <description><![CDATA[<p>Before submitting new Software/Hardware request please click <span style="color: #ff0000;"><a style="color: #ff0000;" title="here" href="sphome?id&#61;shr_list" target="_blank" rel="nofollow">here</a></span> to check if it is already approved.</p>]]></description>
+        <entitlement_script/>
+        <group/>
+        <icon/>
+        <ignore_price>true</ignore_price>
+        <image/>
+        <list_price>0</list_price>
+        <location/>
+        <meta/>
+        <mobile_hide_price>false</mobile_hide_price>
+        <mobile_picture/>
+        <mobile_picture_type>use_desktop_picture</mobile_picture_type>
+        <model/>
+        <name>Software and Hardware Approval Request (old)</name>
+        <no_cart>false</no_cart>
+        <no_order>false</no_order>
+        <no_order_now>false</no_order_now>
+        <no_proceed_checkout>false</no_proceed_checkout>
+        <no_quantity>false</no_quantity>
+        <no_search>false</no_search>
+        <omit_price>false</omit_price>
+        <order>0</order>
+        <ordered_item_link/>
+        <picture/>
+        <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=a5252103dbfd07002614f81d0f9619d5&amp;sysparm_preview=true", "summary");</preview>
+        <price>0</price>
+        <recurring_frequency/>
+        <recurring_price>0</recurring_price>
+        <redirect_url>generated_record</redirect_url>
+        <roles>snc_internal</roles>
+        <sc_catalogs>e0d08b13c3330100c8b837659bba8fb4</sc_catalogs>
+        <sc_ic_item_staging/>
+        <sc_ic_version/>
+        <script><![CDATA[gs.addInfoMessage('Thank you. Your request has been sucessfully submitted. The reference number is ' + current.number);
+producer.redirect = "catalog_home.do?sysparm_catalog=e0d08b13c3330100c8b837659bba8fb4";
+]]></script>
+        <short_description>Software and Hardware Approval Request</short_description>
+        <show_variable_help_on_load>false</show_variable_help_on_load>
+        <start_closed>false</start_closed>
+        <sys_class_name>sc_cat_item_producer</sys_class_name>
+        <sys_created_by>emalsia@usaid.gov</sys_created_by>
+        <sys_created_on>2017-10-18 17:08:23</sys_created_on>
+        <sys_id>a5252103dbfd07002614f81d0f9619d5</sys_id>
+        <sys_mod_count>13</sys_mod_count>
+        <sys_name>Software and Hardware Approval Request (old)</sys_name>
+        <sys_package display_value="SHR" source="x_agfid_shr">03e2363cdbe94700e2c0fd0e0f9619c7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SHR">03e2363cdbe94700e2c0fd0e0f9619c7</sys_scope>
+        <sys_update_name>sc_cat_item_producer_a5252103dbfd07002614f81d0f9619d5</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-06-05 15:50:57</sys_updated_on>
+        <table_name>x_agfid_shr_shr</table_name>
+        <template/>
+        <type>item</type>
+        <use_sc_layout>true</use_sc_layout>
+        <vendor/>
+        <view/>
+        <visible_bundle>true</visible_bundle>
+        <visible_guide>true</visible_guide>
+        <visible_standalone>true</visible_standalone>
+        <workflow/>
+    </sc_cat_item_producer>
+    <sys_translated_text action="delete_multiple" query="documentkey=a5252103dbfd07002614f81d0f9619d5"/>
+    <fx_price action="delete_multiple" query="id=a5252103dbfd07002614f81d0f9619d5"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>price</field>
+        <id>a5252103dbfd07002614f81d0f9619d5</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>emalsia@usaid.gov</sys_created_by>
+        <sys_created_on>2017-10-18 17:08:23</sys_created_on>
+        <sys_id>ff55adcfdbbd07002614f81d0f9619c2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
+        <sys_updated_on>2017-10-18 17:08:23</sys_updated_on>
+        <table>sc_cat_item_producer</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>recurring_price</field>
+        <id>a5252103dbfd07002614f81d0f9619d5</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>emalsia@usaid.gov</sys_created_by>
+        <sys_created_on>2017-10-18 17:08:23</sys_created_on>
+        <sys_id>3755adcfdbbd07002614f81d0f9619c4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
+        <sys_updated_on>2017-10-18 17:08:23</sys_updated_on>
+        <table>sc_cat_item_producer</table>
+        <type>calculated</type>
+    </fx_price>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color>#f9b030</average_image_color>
+        <compressed>true</compressed>
+        <content_type>image/jpeg</content_type>
+        <file_name>picture</file_name>
+        <image_height>151</image_height>
+        <image_width>191</image_width>
+        <size_bytes>15689</size_bytes>
+        <size_compressed>15467</size_compressed>
+        <sys_created_by>emalsia@usaid.gov</sys_created_by>
+        <sys_created_on>2017-10-18 17:08:30</sys_created_on>
+        <sys_id>916529cbdbbd07002614f81d0f96199d</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
+        <sys_updated_on>2017-10-18 17:08:30</sys_updated_on>
+        <table_name>ZZ_YYsc_cat_item_producer</table_name>
+        <table_sys_id>a5252103dbfd07002614f81d0f9619d5</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="picture" sys_id="916529cbdbbd07002614f81d0f96199d">916529cbdbbd07002614f81d0f96199d</sys_attachment>
+        <sys_created_by>emalsia@usaid.gov</sys_created_by>
+        <sys_created_on>2017-10-18 17:08:30</sys_created_on>
+        <sys_id>996529cbdbbd07002614f81d0f96199d</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>3736</length>
+        <position>1</position>
+        <sys_attachment display_value="picture" sys_id="916529cbdbbd07002614f81d0f96199d">916529cbdbbd07002614f81d0f96199d</sys_attachment>
+        <sys_created_by>emalsia@usaid.gov</sys_created_by>
+        <sys_created_on>2017-10-18 17:08:30</sys_created_on>
+        <sys_id>1d6529cbdbbd07002614f81d0f96199d</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>3736</length>
+        <position>2</position>
+        <sys_attachment display_value="picture" sys_id="916529cbdbbd07002614f81d0f96199d">916529cbdbbd07002614f81d0f96199d</sys_attachment>
+        <sys_created_by>emalsia@usaid.gov</sys_created_by>
+        <sys_created_on>2017-10-18 17:08:30</sys_created_on>
+        <sys_id>9d6529cbdbbd07002614f81d0f96199d</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>3736</length>
+        <position>3</position>
+        <sys_attachment display_value="picture" sys_id="916529cbdbbd07002614f81d0f96199d">916529cbdbbd07002614f81d0f96199d</sys_attachment>
+        <sys_created_by>emalsia@usaid.gov</sys_created_by>
+        <sys_created_on>2017-10-18 17:08:30</sys_created_on>
+        <sys_id>116529cbdbbd07002614f81d0f96199e</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>3736</length>
+        <position>4</position>
+        <sys_attachment display_value="picture" sys_id="916529cbdbbd07002614f81d0f96199d">916529cbdbbd07002614f81d0f96199d</sys_attachment>
+        <sys_created_by>emalsia@usaid.gov</sys_created_by>
+        <sys_created_on>2017-10-18 17:08:30</sys_created_on>
+        <sys_id>916529cbdbbd07002614f81d0f96199e</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>3736</length>
+        <position>5</position>
+        <sys_attachment display_value="picture" sys_id="916529cbdbbd07002614f81d0f96199d">916529cbdbbd07002614f81d0f96199d</sys_attachment>
+        <sys_created_by>emalsia@usaid.gov</sys_created_by>
+        <sys_created_on>2017-10-18 17:08:30</sys_created_on>
+        <sys_id>156529cbdbbd07002614f81d0f96199e</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>DmapQIUg/SqNLfd8L7OkJM5Edconyhydq9xcXuPUtZVd6X0I7RdMEVye32u87F3YchluM53xiPknG5NfOx9+x645bwKNcuatGYTxIQwaO3V2eV9w8UpDPlzT7RbGVCiuptaOxHTBT4gy2ikzNy6PAkVP6OGlXVqwqX5eKdt1S9K1FTNASAP7bzLz0/KuoGqS+sS0GuKRJZZiMH4/H/oZtPceQKc0v0aK8a8BB65/RfqQUXeWDEhybhaV49/oil8zpF6KJjx4fY4hTGraDGzYl8IlRts47xK+7zFpgHiSwhmXZ6OaKP1pZxCjhcqErhHugOLVeyVm+Hvntf/GOhlsLD+Vy5W7O0v6wXAL+luYHTKBZt+uoUEz8Wgye9wDfMsRbbKfRHYbT1fyc+dlUfJu8dh9a1YaXvAsx1rMjh5dOuLqR37bJlHQUtcOPtGXyyHEn/fwSwz9pQvIg3iVF13xS3MoDAUOUE4YTcDzHZNU87oMdeO2D1PWDv7WedvALcM8ZM1UhiDhvaDfdkBwHwjimR3hj8h8YGE0YipcNiwAv7+IR90D4l0wg/ZxNQYBjhnbQveAALfR0oWqTwuBdo9KoeJ8bEh0zcy/g/V/EpY4H+e9a9DqZ1KiXZYoJbdQi0cE88EMc1LG3uEUMm2VEyL/ukeUCWPYhmiflZCq7HVdaEXlY3UwYxgF+SICgXAgqUD/VmWWb6Kb26u9oWRtSVHsl9Hs2Hlc02fAxxbg4R76NgpsmDlxv6DqafO4BDFEW5ml0Rr9AywK34BgXspI/PUeiuIBXYRT5F9q1yZ3EtxKg5z1nXHFFoVPZ2+v078UJv46lsScWfpGmkpajpaPTgliQlNTU0Ar3sDF4+5g3gb72XauglUzzvLGoQa9FjsYlrUAFpvHmk9gPx+yHhUrN3M3Ac8V7Q+WmS10WynJ/fAvcLXY1Aqq+VZjaWauMr8BAnWLdtwCP/R7iZFVtnBXKeVAqMP5adoAvKMWognaqWew4RIqO0ws6oLbqopKT5iddB4+X6dfHyvdh5VGVUu+WOZZVr8HOC/7R+VfQE+hol43vIGv0KY2kId+lLfA/cejiaAgvFS7W9l2hbj1s+CoGbvmG+BiwEZnf+o9gEq0nwvJBrPsdIRna9W5MIV9YGGf3lbakGlcBOPfEQLhlH9ossaayhDqc9uq57FXvHQKa55sfbJvStp7m7fdOkH3gMX59du/jX+9c5mNZwoRYg23vBomewmyWzmpVp5eiekn49LloM6lVERpn+1pOw0qs+8JDEK2gg7b8h6coRiwojdKvDS7k74rRrvdkIO9ukRiSb8X7sHMFMqNTaCupQe1SiF0Z7kU6xbfS1z62wP++G7+xe/2zSeWdTiOTcGbbXf8AZZZtTBZ64WZmqngN0xbzdfYC//5EdLN0XAPoFlV9t/QAA1YiLbis2m4GWUo4ifEZLuL7aruSuMGXVmvm0o+E+nL52t07C5WeATX1sYfXSOS/SBLgBHVuxtCHSWW/B6wgI2xJN2akUBP2P4E9DLjVHrrVv5mgy/HZZ29jDf8GeOnBigr3QNZ05XHuSANdn+GPraWq1KkBEzUAZ10HJp/xgAUHEqnsmDeruL//ZemdtP7erlsuGbLiK6mNyAgTO2XwTnDxxgO7PCTtcPeH+iLKVCQveKk8FdePFb1A45S4PlySYcr+r9uTwPthRgZaEfNDtSgbnRp+YcKV+xWgA0CrvpMgwYPN+TfA6LegKcOVKLU5zvEwIVGf5F6Rb4GVpWzaSnB7sec/Jv/IFJ5oFIUEENOBD8OX6RzoVszSmPInLUPWIHOj3htfTmTf1DxWIbgNrkhhMgY6uYIAtm75hBUIVSsmVGUAMMfu7I4DSuveZfAzReUOnKM0olfuA+hI+TAngar6Z/hgeWd6ZTaOMMxf3B5KLX/azH+t+DfL/4Py0GK70k9AAA=</data>
+        <length>1944</length>
+        <position>6</position>
+        <sys_attachment display_value="picture" sys_id="916529cbdbbd07002614f81d0f96199d">916529cbdbbd07002614f81d0f96199d</sys_attachment>
+        <sys_created_by>emalsia@usaid.gov</sys_created_by>
+        <sys_created_on>2017-10-18 17:08:30</sys_created_on>
+        <sys_id>956529cbdbbd07002614f81d0f96199e</sys_id>
+    </sys_attachment_doc>
+</record_update>

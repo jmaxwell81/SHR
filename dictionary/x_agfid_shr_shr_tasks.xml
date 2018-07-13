@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element audit="true" extends="task" label="SHR_tasks" max_length="40" name="x_agfid_shr_shr_tasks" type="collection">
+        <element label="ShrID" max_length="32" name="shrid" reference="x_agfid_shr_shr" type="reference"/>
+    </element>
+</database>

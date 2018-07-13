@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>emalsia@usaid.gov</sys_created_by>
+        <sys_created_on>2017-10-02 18:32:30</sys_created_on>
+        <sys_id>c92f5339dba10b002614f81d0f961996</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.x_agfid_shr.shr_ea</sys_name>
+        <sys_package display_value="SHR" source="x_agfid_shr">03e2363cdbe94700e2c0fd0e0f9619c7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SHR">03e2363cdbe94700e2c0fd0e0f9619c7</sys_scope>
+        <sys_security_acl display_value="x_agfid_shr_shr.cm_ea_application_infrastructure_library">1bfe1b39dba10b002614f81d0f96194c</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_c92f5339dba10b002614f81d0f961996</sys_update_name>
+        <sys_updated_by>emalsia@usaid.gov</sys_updated_by>
+        <sys_updated_on>2017-10-02 18:32:30</sys_updated_on>
+        <sys_user_role display_value="x_agfid_shr.shr_ea" name="x_agfid_shr.shr_ea">251cfb30dbed4700e2c0fd0e0f96193e</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

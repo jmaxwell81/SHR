@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>rpt-temp899b0538db3503002614f81d0f9619d5Spolkinghorn@usaid.gov</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>Spolkinghorn@usaid.gov</sys_created_by>
+        <sys_created_on>2018-02-20 18:43:58</sys_created_on>
+        <sys_id>aef9a51bdb5c9300e2c0fd0e0f9619ea</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="SHR">03e2363cdbe94700e2c0fd0e0f9619c7</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>Spolkinghorn@usaid.gov</sys_updated_by>
+        <sys_updated_on>2018-02-20 18:43:58</sys_updated_on>
+        <title>Rpt-temp899b0538db3503002614f81d0f9619d5spolkinghorn@usaid.gov</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

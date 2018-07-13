@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_related sys_domain="global" table="x_agfid_shr_shr" version="2" view="Requester">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="SHR - Requester" name="x_agfid_shr_shr" related_list="NULL" sys_domain="global" view="a8367c64dbf94f002614f81d0f96199b">35fdfb7fdb2a53002614f81d0f9619bd</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>akhayo@usaid.gov</sys_created_by>
+            <sys_created_on>2018-06-14 15:08:46</sys_created_on>
+            <sys_id>f9fdfb7fdb2a53002614f81d0f9619bd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>akhayo@usaid.gov</sys_updated_by>
+            <sys_updated_on>2018-06-14 15:08:46</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>SHR - Requester</calculated_name>
+            <filter/>
+            <name>x_agfid_shr_shr</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>akhayo@usaid.gov</sys_created_by>
+            <sys_created_on>2018-06-14 15:08:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>35fdfb7fdb2a53002614f81d0f9619bd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>SHR - Requester</sys_name>
+            <sys_package display_value="SHR" source="x_agfid_shr">03e2363cdbe94700e2c0fd0e0f9619c7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SHR">03e2363cdbe94700e2c0fd0e0f9619c7</sys_scope>
+            <sys_update_name>sys_ui_related_x_agfid_shr_shr_Requester</sys_update_name>
+            <sys_updated_by>akhayo@usaid.gov</sys_updated_by>
+            <sys_updated_on>2018-06-14 15:08:46</sys_updated_on>
+            <sys_user/>
+            <view display_value="Requester" name="Requester">a8367c64dbf94f002614f81d0f96199b</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>

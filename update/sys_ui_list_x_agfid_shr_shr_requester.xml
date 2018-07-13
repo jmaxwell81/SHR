@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_agfid_shr_shr" version="2" view="Requester">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_agfid_shr_shr" element="NULL" name="x_agfid_shr_shr" parent="NULL" relationship="NULL" sys_domain="global" view="a8367c64dbf94f002614f81d0f96199b">de44986ddb168300e2c0fd0e0f9619e6</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>vsheremeti@usaid.gov</sys_created_by>
+            <sys_created_on>2017-11-09 13:06:37</sys_created_on>
+            <sys_id>380102cadb9e8300e2c0fd0e0f961997</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+            <sys_updated_on>2017-11-09 13:06:37</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>product_name</element>
+            <list_id display_value="x_agfid_shr_shr" element="NULL" name="x_agfid_shr_shr" parent="NULL" relationship="NULL" sys_domain="global" view="a8367c64dbf94f002614f81d0f96199b">de44986ddb168300e2c0fd0e0f9619e6</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>vsheremeti@usaid.gov</sys_created_by>
+            <sys_created_on>2017-11-09 13:06:37</sys_created_on>
+            <sys_id>b80102cadb9e8300e2c0fd0e0f961997</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+            <sys_updated_on>2017-11-09 13:06:37</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_created_on</element>
+            <list_id display_value="x_agfid_shr_shr" element="NULL" name="x_agfid_shr_shr" parent="NULL" relationship="NULL" sys_domain="global" view="a8367c64dbf94f002614f81d0f96199b">de44986ddb168300e2c0fd0e0f9619e6</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>vsheremeti@usaid.gov</sys_created_by>
+            <sys_created_on>2017-11-09 13:06:37</sys_created_on>
+            <sys_id>3c0102cadb9e8300e2c0fd0e0f961997</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+            <sys_updated_on>2017-11-09 13:06:37</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>requested_by</element>
+            <list_id display_value="x_agfid_shr_shr" element="NULL" name="x_agfid_shr_shr" parent="NULL" relationship="NULL" sys_domain="global" view="a8367c64dbf94f002614f81d0f96199b">de44986ddb168300e2c0fd0e0f9619e6</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>vsheremeti@usaid.gov</sys_created_by>
+            <sys_created_on>2017-11-09 13:06:37</sys_created_on>
+            <sys_id>bc0102cadb9e8300e2c0fd0e0f961997</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+            <sys_updated_on>2017-11-09 13:06:37</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>opened_by</element>
+            <list_id display_value="x_agfid_shr_shr" element="NULL" name="x_agfid_shr_shr" parent="NULL" relationship="NULL" sys_domain="global" view="a8367c64dbf94f002614f81d0f96199b">de44986ddb168300e2c0fd0e0f9619e6</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>vsheremeti@usaid.gov</sys_created_by>
+            <sys_created_on>2017-11-09 13:06:37</sys_created_on>
+            <sys_id>300102cadb9e8300e2c0fd0e0f961998</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+            <sys_updated_on>2017-11-09 13:06:37</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>disposition</element>
+            <list_id display_value="x_agfid_shr_shr" element="NULL" name="x_agfid_shr_shr" parent="NULL" relationship="NULL" sys_domain="global" view="a8367c64dbf94f002614f81d0f96199b">de44986ddb168300e2c0fd0e0f9619e6</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>vsheremeti@usaid.gov</sys_created_by>
+            <sys_created_on>2017-11-09 13:06:37</sys_created_on>
+            <sys_id>b00102cadb9e8300e2c0fd0e0f961998</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+            <sys_updated_on>2017-11-09 13:06:37</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>stage</element>
+            <list_id display_value="x_agfid_shr_shr" element="NULL" name="x_agfid_shr_shr" parent="NULL" relationship="NULL" sys_domain="global" view="a8367c64dbf94f002614f81d0f96199b">de44986ddb168300e2c0fd0e0f9619e6</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>vsheremeti@usaid.gov</sys_created_by>
+            <sys_created_on>2017-11-09 13:06:37</sys_created_on>
+            <sys_id>340102cadb9e8300e2c0fd0e0f961998</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+            <sys_updated_on>2017-11-09 13:06:37</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_agfid_shr_shr</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>vsheremeti@usaid.gov</sys_created_by>
+            <sys_created_on>2017-11-09 13:06:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>de44986ddb168300e2c0fd0e0f9619e6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_agfid_shr_shr</sys_name>
+            <sys_package display_value="SHR" source="x_agfid_shr">03e2363cdbe94700e2c0fd0e0f9619c7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SHR">03e2363cdbe94700e2c0fd0e0f9619c7</sys_scope>
+            <sys_update_name>sys_ui_list_x_agfid_shr_shr_Requester</sys_update_name>
+            <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+            <sys_updated_on>2017-11-09 13:06:37</sys_updated_on>
+            <sys_user/>
+            <view display_value="Requester" name="Requester">a8367c64dbf94f002614f81d0f96199b</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

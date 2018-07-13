@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update node_type="sys_portal_page" unload_date="2018-07-13 23:04:55">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout/>
+        <order>3001</order>
+        <read_roles>snc_internal</read_roles>
+        <roles/>
+        <selectable>true</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>vsheremeti@usaid.gov</sys_created_by>
+        <sys_created_on>2017-11-10 22:32:26</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>761c8da2dbd643002614f81d0f96193c</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>PA SHR</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="SHR" source="x_agfid_shr">03e2363cdbe94700e2c0fd0e0f9619c7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SHR">03e2363cdbe94700e2c0fd0e0f9619c7</sys_scope>
+        <sys_update_name>sys_portal_page_761c8da2dbd643002614f81d0f96193c</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-06-05 15:50:47</sys_updated_on>
+        <title>PA SHR</title>
+        <user/>
+        <view>pa_shr_1</view>
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone2</dropzone>
+                <offset>0</offset>
+                <page display_value="PA SHR">761c8da2dbd643002614f81d0f96193c</page>
+                <summary/>
+                <sys_created_by>vsheremeti@usaid.gov</sys_created_by>
+                <sys_created_on>2018-04-29 22:53:44</sys_created_on>
+                <sys_id>0c4fa8dddb79d740e2c0fd0e0f961963</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+                <sys_updated_on>2018-04-29 22:53:44</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2018-04-29 15:53:44">0c4fa8dddb79d740e2c0fd0e0f961963</portal_section>
+                        <sys_created_by>vsheremeti@usaid.gov</sys_created_by>
+                        <sys_created_on>2018-04-29 22:53:44</sys_created_on>
+                        <sys_id>004fa8dddb79d740e2c0fd0e0f961965</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+                        <sys_updated_on>2018-04-29 22:53:44</sys_updated_on>
+                        <value>semi_donut</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2018-04-29 15:53:44">0c4fa8dddb79d740e2c0fd0e0f961963</portal_section>
+                        <sys_created_by>vsheremeti@usaid.gov</sys_created_by>
+                        <sys_created_on>2018-04-29 22:53:44</sys_created_on>
+                        <sys_id>044fa8dddb79d740e2c0fd0e0f961964</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+                        <sys_updated_on>2018-04-29 22:53:44</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2018-04-29 15:53:44">0c4fa8dddb79d740e2c0fd0e0f961963</portal_section>
+                        <sys_created_by>vsheremeti@usaid.gov</sys_created_by>
+                        <sys_created_on>2018-04-29 22:53:44</sys_created_on>
+                        <sys_id>044fa8dddb79d740e2c0fd0e0f961965</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+                        <sys_updated_on>2018-04-29 22:53:44</sys_updated_on>
+                        <value>SHR Tasks by State</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2018-04-29 15:53:44">0c4fa8dddb79d740e2c0fd0e0f961963</portal_section>
+                        <sys_created_by>vsheremeti@usaid.gov</sys_created_by>
+                        <sys_created_on>2018-04-29 22:53:44</sys_created_on>
+                        <sys_id>084fa8dddb79d740e2c0fd0e0f961964</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+                        <sys_updated_on>2018-04-29 22:53:44</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2018-04-29 15:53:44">0c4fa8dddb79d740e2c0fd0e0f961963</portal_section>
+                        <sys_created_by>vsheremeti@usaid.gov</sys_created_by>
+                        <sys_created_on>2018-04-29 22:53:44</sys_created_on>
+                        <sys_id>0c4fa8dddb79d740e2c0fd0e0f961964</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+                        <sys_updated_on>2018-04-29 22:53:44</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2018-04-29 15:53:44">0c4fa8dddb79d740e2c0fd0e0f961963</portal_section>
+                        <sys_created_by>vsheremeti@usaid.gov</sys_created_by>
+                        <sys_created_on>2018-04-29 22:53:44</sys_created_on>
+                        <sys_id>884fa8dddb79d740e2c0fd0e0f961965</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+                        <sys_updated_on>2018-04-29 22:53:44</sys_updated_on>
+                        <value>761c8da2dbd643002614f81d0f96193c</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2018-04-29 15:53:44">0c4fa8dddb79d740e2c0fd0e0f961963</portal_section>
+                        <sys_created_by>vsheremeti@usaid.gov</sys_created_by>
+                        <sys_created_on>2018-04-29 22:53:44</sys_created_on>
+                        <sys_id>8c4fa8dddb79d740e2c0fd0e0f961963</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+                        <sys_updated_on>2018-04-29 22:53:44</sys_updated_on>
+                        <value>bf8fe59ddb251b00e2c0fd0e0f961944</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone1</dropzone>
+                <offset>0</offset>
+                <page display_value="PA SHR">761c8da2dbd643002614f81d0f96193c</page>
+                <summary/>
+                <sys_created_by>vsheremeti@usaid.gov</sys_created_by>
+                <sys_created_on>2018-04-29 22:53:44</sys_created_on>
+                <sys_id>484f68dddb79d740e2c0fd0e0f961905</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+                <sys_updated_on>2018-04-29 22:53:44</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2018-04-29 15:53:44">484f68dddb79d740e2c0fd0e0f961905</portal_section>
+                        <sys_created_by>vsheremeti@usaid.gov</sys_created_by>
+                        <sys_created_on>2018-04-29 22:53:44</sys_created_on>
+                        <sys_id>404f68dddb79d740e2c0fd0e0f961906</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+                        <sys_updated_on>2018-04-29 22:53:44</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2018-04-29 15:53:44">484f68dddb79d740e2c0fd0e0f961905</portal_section>
+                        <sys_created_by>vsheremeti@usaid.gov</sys_created_by>
+                        <sys_created_on>2018-04-29 22:53:44</sys_created_on>
+                        <sys_id>404f68dddb79d740e2c0fd0e0f961907</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+                        <sys_updated_on>2018-04-29 22:53:44</sys_updated_on>
+                        <value>SHR by State and Approval Status</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2018-04-29 15:53:44">484f68dddb79d740e2c0fd0e0f961905</portal_section>
+                        <sys_created_by>vsheremeti@usaid.gov</sys_created_by>
+                        <sys_created_on>2018-04-29 22:53:44</sys_created_on>
+                        <sys_id>444f68dddb79d740e2c0fd0e0f961906</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+                        <sys_updated_on>2018-04-29 22:53:44</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_publish</name>
+                        <portal_section display_value="Created 2018-04-29 15:53:44">484f68dddb79d740e2c0fd0e0f961905</portal_section>
+                        <sys_created_by>vsheremeti@usaid.gov</sys_created_by>
+                        <sys_created_on>2018-04-29 22:53:44</sys_created_on>
+                        <sys_id>484f68dddb79d740e2c0fd0e0f961906</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+                        <sys_updated_on>2018-04-29 22:53:44</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2018-04-29 15:53:44">484f68dddb79d740e2c0fd0e0f961905</portal_section>
+                        <sys_created_by>vsheremeti@usaid.gov</sys_created_by>
+                        <sys_created_on>2018-04-29 22:53:44</sys_created_on>
+                        <sys_id>4c4f68dddb79d740e2c0fd0e0f961906</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+                        <sys_updated_on>2018-04-29 22:53:44</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2018-04-29 15:53:44">484f68dddb79d740e2c0fd0e0f961905</portal_section>
+                        <sys_created_by>vsheremeti@usaid.gov</sys_created_by>
+                        <sys_created_on>2018-04-29 22:53:44</sys_created_on>
+                        <sys_id>c84f68dddb79d740e2c0fd0e0f961905</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+                        <sys_updated_on>2018-04-29 22:53:44</sys_updated_on>
+                        <value>6928a247db2d8b002614f81d0f961900</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone2</dropzone>
+                <offset>2</offset>
+                <page display_value="PA SHR">761c8da2dbd643002614f81d0f96193c</page>
+                <summary/>
+                <sys_created_by>vsheremeti@usaid.gov</sys_created_by>
+                <sys_created_on>2018-04-29 22:53:44</sys_created_on>
+                <sys_id>884fa8dddb79d740e2c0fd0e0f961967</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+                <sys_updated_on>2018-04-29 22:53:44</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2018-04-29 15:53:44">884fa8dddb79d740e2c0fd0e0f961967</portal_section>
+                        <sys_created_by>vsheremeti@usaid.gov</sys_created_by>
+                        <sys_created_on>2018-04-29 22:53:44</sys_created_on>
+                        <sys_id>0c4fa8dddb79d740e2c0fd0e0f961967</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+                        <sys_updated_on>2018-04-29 22:53:44</sys_updated_on>
+                        <value>703c6a81db7143002614f81d0f96196b</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2018-04-29 15:53:44">884fa8dddb79d740e2c0fd0e0f961967</portal_section>
+                        <sys_created_by>vsheremeti@usaid.gov</sys_created_by>
+                        <sys_created_on>2018-04-29 22:53:44</sys_created_on>
+                        <sys_id>804fa8dddb79d740e2c0fd0e0f961968</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+                        <sys_updated_on>2018-04-29 22:53:44</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2018-04-29 15:53:44">884fa8dddb79d740e2c0fd0e0f961967</portal_section>
+                        <sys_created_by>vsheremeti@usaid.gov</sys_created_by>
+                        <sys_created_on>2018-04-29 22:53:44</sys_created_on>
+                        <sys_id>844fa8dddb79d740e2c0fd0e0f961968</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+                        <sys_updated_on>2018-04-29 22:53:44</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2018-04-29 15:53:44">884fa8dddb79d740e2c0fd0e0f961967</portal_section>
+                        <sys_created_by>vsheremeti@usaid.gov</sys_created_by>
+                        <sys_created_on>2018-04-29 22:53:44</sys_created_on>
+                        <sys_id>884fa8dddb79d740e2c0fd0e0f961968</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+                        <sys_updated_on>2018-04-29 22:53:44</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2018-04-29 15:53:44">884fa8dddb79d740e2c0fd0e0f961967</portal_section>
+                        <sys_created_by>vsheremeti@usaid.gov</sys_created_by>
+                        <sys_created_on>2018-04-29 22:53:44</sys_created_on>
+                        <sys_id>8c4fa8dddb79d740e2c0fd0e0f961968</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+                        <sys_updated_on>2018-04-29 22:53:44</sys_updated_on>
+                        <value>SHR_Task Report SLA List</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone0</dropzone>
+                <offset>0</offset>
+                <page display_value="PA SHR">761c8da2dbd643002614f81d0f96193c</page>
+                <summary/>
+                <sys_created_by>vsheremeti@usaid.gov</sys_created_by>
+                <sys_created_on>2018-04-29 22:53:44</sys_created_on>
+                <sys_id>8c4f68dddb79d740e2c0fd0e0f961903</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+                <sys_updated_on>2018-04-29 22:53:44</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2018-04-29 15:53:44">8c4f68dddb79d740e2c0fd0e0f961903</portal_section>
+                        <sys_created_by>vsheremeti@usaid.gov</sys_created_by>
+                        <sys_created_on>2018-04-29 22:53:44</sys_created_on>
+                        <sys_id>004f68dddb79d740e2c0fd0e0f961904</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+                        <sys_updated_on>2018-04-29 22:53:44</sys_updated_on>
+                        <value>4ff8a7c2db16c300e2c0fd0e0f96194c</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2018-04-29 15:53:44">8c4f68dddb79d740e2c0fd0e0f961903</portal_section>
+                        <sys_created_by>vsheremeti@usaid.gov</sys_created_by>
+                        <sys_created_on>2018-04-29 22:53:44</sys_created_on>
+                        <sys_id>804f68dddb79d740e2c0fd0e0f961905</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+                        <sys_updated_on>2018-04-29 22:53:44</sys_updated_on>
+                        <value>SHR Requests</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2018-04-29 15:53:44">8c4f68dddb79d740e2c0fd0e0f961903</portal_section>
+                        <sys_created_by>vsheremeti@usaid.gov</sys_created_by>
+                        <sys_created_on>2018-04-29 22:53:44</sys_created_on>
+                        <sys_id>844f68dddb79d740e2c0fd0e0f961904</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+                        <sys_updated_on>2018-04-29 22:53:44</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2018-04-29 15:53:44">8c4f68dddb79d740e2c0fd0e0f961903</portal_section>
+                        <sys_created_by>vsheremeti@usaid.gov</sys_created_by>
+                        <sys_created_on>2018-04-29 22:53:44</sys_created_on>
+                        <sys_id>884f68dddb79d740e2c0fd0e0f961904</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+                        <sys_updated_on>2018-04-29 22:53:44</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2018-04-29 15:53:44">8c4f68dddb79d740e2c0fd0e0f961903</portal_section>
+                        <sys_created_by>vsheremeti@usaid.gov</sys_created_by>
+                        <sys_created_on>2018-04-29 22:53:44</sys_created_on>
+                        <sys_id>8c4f68dddb79d740e2c0fd0e0f961904</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+                        <sys_updated_on>2018-04-29 22:53:44</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone2</dropzone>
+                <offset>1</offset>
+                <page display_value="PA SHR">761c8da2dbd643002614f81d0f96193c</page>
+                <summary/>
+                <sys_created_by>vsheremeti@usaid.gov</sys_created_by>
+                <sys_created_on>2018-04-29 22:53:44</sys_created_on>
+                <sys_id>cc4fa8dddb79d740e2c0fd0e0f961965</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+                <sys_updated_on>2018-04-29 22:53:44</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2018-04-29 15:53:44">cc4fa8dddb79d740e2c0fd0e0f961965</portal_section>
+                        <sys_created_by>vsheremeti@usaid.gov</sys_created_by>
+                        <sys_created_on>2018-04-29 22:53:44</sys_created_on>
+                        <sys_id>404fa8dddb79d740e2c0fd0e0f961966</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+                        <sys_updated_on>2018-04-29 22:53:44</sys_updated_on>
+                        <value>899b0538db3503002614f81d0f9619d5</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2018-04-29 15:53:44">cc4fa8dddb79d740e2c0fd0e0f961965</portal_section>
+                        <sys_created_by>vsheremeti@usaid.gov</sys_created_by>
+                        <sys_created_on>2018-04-29 22:53:44</sys_created_on>
+                        <sys_id>c04fa8dddb79d740e2c0fd0e0f961967</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+                        <sys_updated_on>2018-04-29 22:53:44</sys_updated_on>
+                        <value>SHR Report SLA</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2018-04-29 15:53:44">cc4fa8dddb79d740e2c0fd0e0f961965</portal_section>
+                        <sys_created_by>vsheremeti@usaid.gov</sys_created_by>
+                        <sys_created_on>2018-04-29 22:53:44</sys_created_on>
+                        <sys_id>c44fa8dddb79d740e2c0fd0e0f961966</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+                        <sys_updated_on>2018-04-29 22:53:44</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2018-04-29 15:53:44">cc4fa8dddb79d740e2c0fd0e0f961965</portal_section>
+                        <sys_created_by>vsheremeti@usaid.gov</sys_created_by>
+                        <sys_created_on>2018-04-29 22:53:44</sys_created_on>
+                        <sys_id>c84fa8dddb79d740e2c0fd0e0f961966</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+                        <sys_updated_on>2018-04-29 22:53:44</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2018-04-29 15:53:44">cc4fa8dddb79d740e2c0fd0e0f961965</portal_section>
+                        <sys_created_by>vsheremeti@usaid.gov</sys_created_by>
+                        <sys_created_on>2018-04-29 22:53:44</sys_created_on>
+                        <sys_id>cc4fa8dddb79d740e2c0fd0e0f961966</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>vsheremeti@usaid.gov</sys_updated_by>
+                        <sys_updated_on>2018-04-29 22:53:44</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal_page>
+</record_update>
